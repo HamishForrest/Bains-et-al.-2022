@@ -32,5 +32,6 @@ This folder contains R scripts to analyse data using lmer package.
 This folder contains output files from /analysis code which are used to generate p values for the publication and figures. 
 | analysis output | analysis code | data| 
 | --- | --- | --- |
-|emm_cage_sum_60_hr_WT_Dark_distance.csv, emm_cage_sum_60_hr_WT_Dark_climbing.csv, emm_cage_sum_60_hr_WT_Light_distance.csv, emm_cage_sum_60_hr_WT_Light_climbing.csv|WT_distance&climbing_dark&light_periods_Rscript|cage_sum_60hr_period_mean_WT|
-|||
+|emm_cage_sum_60_hr_WT_Dark_distance.csv emm_cage_sum_60_hr_WT_Dark_climbing.csv emm_cage_sum_60_hr_WT_Light_distance.csv emm_cage_sum_60_hr_WT_Light_climbing.csv|WT_distance&climbing_dark&light_periods_Rscript.txt|cage_sum_60hr_period_mean_WT.csv|
+|emm_cage_sum_60_hr_last_30_HD_distance.csv emm_cage_sum_60_hr_last_30_HD_climbing.csv|HD_distance&climbing_last30_RScript.txt|cage_sum_60hr_change_mean_HD.csv|
+|emm_cage_sum_60_hr_first_30_HD_distance.csv emm_cage_sum_60_hr_first_30_HD_climbing.csv|HD_distance&climbing_last30_RScript.txt|cage_sum_60hr_first_30_mean_HD.csv|
