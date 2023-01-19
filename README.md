@@ -37,6 +37,8 @@ This folder contains R scripts to analyse data using lmer package.
 ### /analysis output
 This folder contains output files from /analysis code which are used to generate p values for the publication and figures. 
 
+Below is a table indicating which output files, scripts and datasets correspond to one another. 
+
 | analysis output | analysis code | data| 
 | --- | --- | --- |
 |emm_cage_sum_60_hr_WT_Dark_distance.csv emm_cage_sum_60_hr_WT_Dark_climbing.csv emm_cage_sum_60_hr_WT_Light_distance.csv emm_cage_sum_60_hr_WT_Light_climbing.csv|WT_distance&climbing_dark&light_periods_Rscript.txt|cage_sum_60hr_period_mean_WT.csv|
