@@ -22,11 +22,12 @@ This folder contains data to be analysed by R scripts.
 ### /analysis code
 This folder contains R scripts to analyse data using lmer package. 
 
-* **HD_distance&climbing_last30_RScript.txt**
-     R script to run over cage_sum_60hr_change_mean_HD and cage_sum_60hr_first_30_mean_HD. Please update file names (line 10) and Distance/Climbing (line 11) as          required. 
-
 * **WT_distance&climbing_dark&light_periods_Rscript.txt**
      R script to run over caage_sum_60hr_period_mean_WT. Please update file names (line 10), Distance/Climbing (line 11) and Light/Dark (line 12) as required. 
+     
+* **HD_distance&climbing_first30_RScript.txt**
+     R script to run over cage_sum_60hr_first_30_mean_HD. Please update file names (line 10) and Distance/Climbing (line 11) as required. 
+
      
 ### /analysis output
 This folder contains output files from /analysis code which are used to generate p values for the publication and figures. 
@@ -34,4 +35,4 @@ This folder contains output files from /analysis code which are used to generate
 | --- | --- | --- |
 |emm_cage_sum_60_hr_WT_Dark_distance.csv emm_cage_sum_60_hr_WT_Dark_climbing.csv emm_cage_sum_60_hr_WT_Light_distance.csv emm_cage_sum_60_hr_WT_Light_climbing.csv|WT_distance&climbing_dark&light_periods_Rscript.txt|cage_sum_60hr_period_mean_WT.csv|
 |emm_cage_sum_60_hr_last_30_HD_distance.csv emm_cage_sum_60_hr_last_30_HD_climbing.csv|HD_distance&climbing_last30_RScript.txt|cage_sum_60hr_change_mean_HD.csv|
-|emm_cage_sum_60_hr_first_30_HD_distance.csv emm_cage_sum_60_hr_first_30_HD_climbing.csv|HD_distance&climbing_last30_RScript.txt|cage_sum_60hr_first_30_mean_HD.csv|
+|emm_cage_sum_60_hr_first_30_HD_distance.csv emm_cage_sum_60_hr_first_30_HD_climbing.csv|HD_distance&climbing_first30_RScript.txt|cage_sum_60hr_first_30_mean_HD.csv|
