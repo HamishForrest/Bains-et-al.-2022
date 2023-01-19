@@ -17,7 +17,7 @@ This folder contains data to be analysed by R scripts.
 
 * **cage_sum_60hr_period_mean_WT.csv**
      
-     Data summed within a cage and averaged over light of dark periods per day of recording. Three days of recording in total.
+     Data summed within a cage and averaged over light and dark periods per day of recording. Three days of recording in total.
 
 ### /analysis code
 This folder contains R scripts to analyse data using lmer package. 
