@@ -7,8 +7,11 @@ This repository houses data, code and example analysis outputs to align with Fro
 ## Use
 ### /data
 This folder contains data to be analysed by R scripts. 
-* cage_sum_60hr_change_mean_HD.csv: Data summed within a cage and averaged over the last 30 minutes of darkness per day of recording. Three days of recording in total. 
+* cage_sum_60hr_change_mean_HD.csv
+     Data summed within a cage and averaged over the last 30 minutes of darkness per day of recording. Three days of recording in total. 
 
-* cage_sum_60hr_first_30_mean_HD.csv: Data summed within a cage and averaged over the first 30 minutes of darkness per day of recording. Three days of recording in total. 
+* cage_sum_60hr_first_30_mean_HD.csv
+     Data summed within a cage and averaged over the first 30 minutes of darkness per day of recording. Three days of recording in total. 
 
-* cage_sum_60hr_period_mean_WT.csv: Data summed within a cage and averaged over light of dark periods per day of recording. Three days of recording in total. 
+* cage_sum_60hr_period_mean_WT.csv
+     Data summed within a cage and averaged over light of dark periods per day of recording. Three days of recording in total. 
