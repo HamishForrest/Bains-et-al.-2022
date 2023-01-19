@@ -1,0 +1,49 @@
+#Imports
+library(lmerTest)
+library(car)
+library(MASS)
+library(emmeans)
+library(tidyverse)
+
+#setwd()
+#Select file and extract "Distance" values only
+data <- read.csv(file = 'cage_sum_60hr_change_mean_HD.csv')
+data <- data[grep("Distance", data$Action),]
+#If climbing, replace "Distance" with "Climbing" above.
+
+#Replace zeros with 0.001, to allow boxcox function to run
+data$value <- replace(data$value , data$value  == 0, 0.001)
+#Boxcox, to deal with non-normally distributed residuals in data
+bc_data <- boxcox(value ~ Genotype:Age:Sex, data=data)
+(lambda_data <- bc_data$x[which.max(bc_data$y)])
+activity_during_change_period = ((data$value^lambda_data-1)/lambda_data)
+
+
+# Mice in all cages exhibit same relationship between fixed effects and value (fixed slope). We modelled sex, age and genotype as
+# categorial fixed effects, as was the interaction of sex, age and genotype. Various other interactions, were
+# omitted from the model as they did not contribute to model fit (further exaple of model selection later). To account for pseudoreplication,
+# we modelled cage as a random intercept (different cages can have different baselines for activity). We determined that
+# there was no significant overall effect of timepoint, however, a weak effect was apparent in some experimental groups.
+# Therefore, we modelled timepoint as a random slope (values may differ or trend between experimental days).
+# We modelled the timepoint slope on the cage intercept to allow the relationship between value and day of experiment to
+# differ between cages.
+model = lmer(activity_during_change_period~ Genotype:Age:Sex + (timepoint | Cage) + (1|timepoint) , data=data)
+
+#We performed a stepwise model selection in this case and determined that the random effects structure in the above model did not significantly
+#improve model fit
+step(model)
+#Adapted model following example model selection
+model = lmer(activity_during_change_period~ Genotype:Age:Sex + (1|Cage), data=data)
+
+#Test assumption for linearity
+plot(resid(model),activity_during_change_period)
+#Test that model residuals are normally distributed with QQplot of residuals
+qqnorm(resid(model))
+qqline(resid(model))
+#Test for homogeneity of variance
+plot(model)
+
+#Compute the estimated marginal means (least-squares means) for factor combinations, and correc for multiple comparisons using the Benjamini–Hochberg method to decrease the false discovery rate
+emm_model = emmeans(model, specs = pairwise ~ Genotype|Age|Sex, simple = list("Genotype"), combine = TRUE, adjust = "BH", type = "response")
+#Plot comparisons, blue bars indicate confidence intervals, red arrows indicate comparison
+plot(emm_model, comparisons = TRUE) + labs(x = "Estimated marginal mean (amount of action)", y = "Sex and Age groups")
