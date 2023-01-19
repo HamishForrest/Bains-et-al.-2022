@@ -1,0 +1,429 @@
+,Action,value,Genotype,Age,Cage,Period,Sex,timepoint
+"(4186074, 'Climbing', 'Dark', '12 months')",Climbing,21.775,C57BL6/J,12 months,4186074,Dark,Male,day_one
+"(4186074, 'Climbing', 'Dark', '3 months')",Climbing,5.98,C57BL6/J,3 months,4186074,Dark,Male,day_one
+"(4186074, 'Climbing', 'Dark', '7 months')",Climbing,4.304,C57BL6/J,7 months,4186074,Dark,Male,day_one
+"(4186074, 'Climbing', 'Light', '12 months')",Climbing,10.95272727,C57BL6/J,12 months,4186074,Light,Male,day_one
+"(4186074, 'Climbing', 'Light', '3 months')",Climbing,3.080727273,C57BL6/J,3 months,4186074,Light,Male,day_one
+"(4186074, 'Climbing', 'Light', '7 months')",Climbing,1.505454545,C57BL6/J,7 months,4186074,Light,Male,day_one
+"(4186074, 'distance (mm)', 'Dark', '12 months')",Distance,3311.554632,C57BL6/J,12 months,4186074,Dark,Male,day_one
+"(4186074, 'distance (mm)', 'Dark', '3 months')",Distance,3345.624288,C57BL6/J,3 months,4186074,Dark,Male,day_one
+"(4186074, 'distance (mm)', 'Dark', '7 months')",Distance,4114.016037,C57BL6/J,7 months,4186074,Dark,Male,day_one
+"(4186074, 'distance (mm)', 'Light', '12 months')",Distance,1164.639881,C57BL6/J,12 months,4186074,Light,Male,day_one
+"(4186074, 'distance (mm)', 'Light', '3 months')",Distance,1478.739895,C57BL6/J,3 months,4186074,Light,Male,day_one
+"(4186074, 'distance (mm)', 'Light', '7 months')",Distance,1999.997746,C57BL6/J,7 months,4186074,Light,Male,day_one
+"(4186084, 'Climbing', 'Dark', '12 months')",Climbing,14.106,C57BL6/J,12 months,4186084,Dark,Male,day_one
+"(4186084, 'Climbing', 'Dark', '3 months')",Climbing,5.39,C57BL6/J,3 months,4186084,Dark,Male,day_one
+"(4186084, 'Climbing', 'Dark', '7 months')",Climbing,8.644,C57BL6/J,7 months,4186084,Dark,Male,day_one
+"(4186084, 'Climbing', 'Light', '12 months')",Climbing,1.913454545,C57BL6/J,12 months,4186084,Light,Male,day_one
+"(4186084, 'Climbing', 'Light', '3 months')",Climbing,1.656,C57BL6/J,3 months,4186084,Light,Male,day_one
+"(4186084, 'Climbing', 'Light', '7 months')",Climbing,2.059636364,C57BL6/J,7 months,4186084,Light,Male,day_one
+"(4186084, 'distance (mm)', 'Dark', '12 months')",Distance,3030.880119,C57BL6/J,12 months,4186084,Dark,Male,day_one
+"(4186084, 'distance (mm)', 'Dark', '3 months')",Distance,2479.091471,C57BL6/J,3 months,4186084,Dark,Male,day_one
+"(4186084, 'distance (mm)', 'Dark', '7 months')",Distance,3830.846222,C57BL6/J,7 months,4186084,Dark,Male,day_one
+"(4186084, 'distance (mm)', 'Light', '12 months')",Distance,1131.462848,C57BL6/J,12 months,4186084,Light,Male,day_one
+"(4186084, 'distance (mm)', 'Light', '3 months')",Distance,1962.598126,C57BL6/J,3 months,4186084,Light,Male,day_one
+"(4186084, 'distance (mm)', 'Light', '7 months')",Distance,1839.403804,C57BL6/J,7 months,4186084,Light,Male,day_one
+"(4187459, 'Climbing', 'Dark', '12 months')",Climbing,1.91,C57BL6/J,12 months,4187459,Dark,Male,day_one
+"(4187459, 'Climbing', 'Dark', '3 months')",Climbing,14.282,C57BL6/J,3 months,4187459,Dark,Male,day_one
+"(4187459, 'Climbing', 'Dark', '7 months')",Climbing,5.778,C57BL6/J,7 months,4187459,Dark,Male,day_one
+"(4187459, 'Climbing', 'Light', '12 months')",Climbing,1.136727273,C57BL6/J,12 months,4187459,Light,Male,day_one
+"(4187459, 'Climbing', 'Light', '3 months')",Climbing,0.130909091,C57BL6/J,3 months,4187459,Light,Male,day_one
+"(4187459, 'Climbing', 'Light', '7 months')",Climbing,0.194181818,C57BL6/J,7 months,4187459,Light,Male,day_one
+"(4187459, 'distance (mm)', 'Dark', '12 months')",Distance,2209.752853,C57BL6/J,12 months,4187459,Dark,Male,day_one
+"(4187459, 'distance (mm)', 'Dark', '3 months')",Distance,2796.722856,C57BL6/J,3 months,4187459,Dark,Male,day_one
+"(4187459, 'distance (mm)', 'Dark', '7 months')",Distance,2189.237317,C57BL6/J,7 months,4187459,Dark,Male,day_one
+"(4187459, 'distance (mm)', 'Light', '12 months')",Distance,1105.24482,C57BL6/J,12 months,4187459,Light,Male,day_one
+"(4187459, 'distance (mm)', 'Light', '3 months')",Distance,805.6433528,C57BL6/J,3 months,4187459,Light,Male,day_one
+"(4187459, 'distance (mm)', 'Light', '7 months')",Distance,795.6884787,C57BL6/J,7 months,4187459,Light,Male,day_one
+"(4187463, 'Climbing', 'Dark', '12 months')",Climbing,8.6,C57BL6/J,12 months,4187463,Dark,Male,day_one
+"(4187463, 'Climbing', 'Dark', '3 months')",Climbing,26.432,C57BL6/J,3 months,4187463,Dark,Male,day_one
+"(4187463, 'Climbing', 'Dark', '7 months')",Climbing,22.1,C57BL6/J,7 months,4187463,Dark,Male,day_one
+"(4187463, 'Climbing', 'Light', '12 months')",Climbing,0.349090909,C57BL6/J,12 months,4187463,Light,Male,day_one
+"(4187463, 'Climbing', 'Light', '3 months')",Climbing,7.981090909,C57BL6/J,3 months,4187463,Light,Male,day_one
+"(4187463, 'Climbing', 'Light', '7 months')",Climbing,14.63345455,C57BL6/J,7 months,4187463,Light,Male,day_one
+"(4187463, 'distance (mm)', 'Dark', '12 months')",Distance,2605.23505,C57BL6/J,12 months,4187463,Dark,Male,day_one
+"(4187463, 'distance (mm)', 'Dark', '3 months')",Distance,4019.973663,C57BL6/J,3 months,4187463,Dark,Male,day_one
+"(4187463, 'distance (mm)', 'Dark', '7 months')",Distance,3303.12225,C57BL6/J,7 months,4187463,Dark,Male,day_one
+"(4187463, 'distance (mm)', 'Light', '12 months')",Distance,1132.856437,C57BL6/J,12 months,4187463,Light,Male,day_one
+"(4187463, 'distance (mm)', 'Light', '3 months')",Distance,2107.725164,C57BL6/J,3 months,4187463,Light,Male,day_one
+"(4187463, 'distance (mm)', 'Light', '7 months')",Distance,1389.701154,C57BL6/J,7 months,4187463,Light,Male,day_one
+"(4188123, 'Climbing', 'Dark', '12 months')",Climbing,16.804,C57BL6/J,12 months,4188123,Dark,Male,day_one
+"(4188123, 'Climbing', 'Dark', '3 months')",Climbing,7.258,C57BL6/J,3 months,4188123,Dark,Male,day_one
+"(4188123, 'Climbing', 'Dark', '7 months')",Climbing,10.458,C57BL6/J,7 months,4188123,Dark,Male,day_one
+"(4188123, 'Climbing', 'Light', '12 months')",Climbing,1.693090909,C57BL6/J,12 months,4188123,Light,Male,day_one
+"(4188123, 'Climbing', 'Light', '3 months')",Climbing,0.881454545,C57BL6/J,3 months,4188123,Light,Male,day_one
+"(4188123, 'Climbing', 'Light', '7 months')",Climbing,5.208,C57BL6/J,7 months,4188123,Light,Male,day_one
+"(4188123, 'distance (mm)', 'Dark', '12 months')",Distance,1620.291978,C57BL6/J,12 months,4188123,Dark,Male,day_one
+"(4188123, 'distance (mm)', 'Dark', '3 months')",Distance,2973.40902,C57BL6/J,3 months,4188123,Dark,Male,day_one
+"(4188123, 'distance (mm)', 'Dark', '7 months')",Distance,2631.238256,C57BL6/J,7 months,4188123,Dark,Male,day_one
+"(4188123, 'distance (mm)', 'Light', '12 months')",Distance,839.0080395,C57BL6/J,12 months,4188123,Light,Male,day_one
+"(4188123, 'distance (mm)', 'Light', '3 months')",Distance,1171.573668,C57BL6/J,3 months,4188123,Light,Male,day_one
+"(4188123, 'distance (mm)', 'Light', '7 months')",Distance,928.7553881,C57BL6/J,7 months,4188123,Light,Male,day_one
+"(4193912, 'Climbing', 'Dark', '12 months')",Climbing,6.512,C57BL6/J,12 months,4193912,Dark,Male,day_one
+"(4193912, 'Climbing', 'Dark', '3 months')",Climbing,58.16033333,C57BL6/J,3 months,4193912,Dark,Male,day_one
+"(4193912, 'Climbing', 'Light', '12 months')",Climbing,4.267636364,C57BL6/J,12 months,4193912,Light,Male,day_one
+"(4193912, 'Climbing', 'Light', '3 months')",Climbing,26.70509091,C57BL6/J,3 months,4193912,Light,Male,day_one
+"(4193912, 'distance (mm)', 'Dark', '12 months')",Distance,1515.491676,C57BL6/J,12 months,4193912,Dark,Male,day_one
+"(4193912, 'distance (mm)', 'Dark', '3 months')",Distance,4079.118594,C57BL6/J,3 months,4193912,Dark,Male,day_one
+"(4193912, 'distance (mm)', 'Light', '12 months')",Distance,1122.187741,C57BL6/J,12 months,4193912,Light,Male,day_one
+"(4193912, 'distance (mm)', 'Light', '3 months')",Distance,966.9580642,C57BL6/J,3 months,4193912,Light,Male,day_one
+"(4240953, 'Climbing', 'Dark', '12 months')",Climbing,10.8,C57BL6/J,12 months,4240953,Dark,Female,day_one
+"(4240953, 'Climbing', 'Dark', '3 months')",Climbing,35.464,C57BL6/J,3 months,4240953,Dark,Female,day_one
+"(4240953, 'Climbing', 'Dark', '7 months')",Climbing,105.322,C57BL6/J,7 months,4240953,Dark,Female,day_one
+"(4240953, 'Climbing', 'Light', '12 months')",Climbing,2.16,C57BL6/J,12 months,4240953,Light,Female,day_one
+"(4240953, 'Climbing', 'Light', '3 months')",Climbing,6.316363636,C57BL6/J,3 months,4240953,Light,Female,day_one
+"(4240953, 'Climbing', 'Light', '7 months')",Climbing,8.395636364,C57BL6/J,7 months,4240953,Light,Female,day_one
+"(4240953, 'distance (mm)', 'Dark', '12 months')",Distance,3066.39135,C57BL6/J,12 months,4240953,Dark,Female,day_one
+"(4240953, 'distance (mm)', 'Dark', '3 months')",Distance,4978.680575,C57BL6/J,3 months,4240953,Dark,Female,day_one
+"(4240953, 'distance (mm)', 'Dark', '7 months')",Distance,4304.42321,C57BL6/J,7 months,4240953,Dark,Female,day_one
+"(4240953, 'distance (mm)', 'Light', '12 months')",Distance,1254.806129,C57BL6/J,12 months,4240953,Light,Female,day_one
+"(4240953, 'distance (mm)', 'Light', '3 months')",Distance,1310.162766,C57BL6/J,3 months,4240953,Light,Female,day_one
+"(4240953, 'distance (mm)', 'Light', '7 months')",Distance,1027.30432,C57BL6/J,7 months,4240953,Light,Female,day_one
+"(4240962, 'Climbing', 'Dark', '12 months')",Climbing,63.045,C57BL6/J,12 months,4240962,Dark,Female,day_one
+"(4240962, 'Climbing', 'Dark', '3 months')",Climbing,103.256,C57BL6/J,3 months,4240962,Dark,Female,day_one
+"(4240962, 'Climbing', 'Dark', '7 months')",Climbing,75.17533333,C57BL6/J,7 months,4240962,Dark,Female,day_one
+"(4240962, 'Climbing', 'Light', '12 months')",Climbing,0.379636364,C57BL6/J,12 months,4240962,Light,Female,day_one
+"(4240962, 'Climbing', 'Light', '3 months')",Climbing,2.912727273,C57BL6/J,3 months,4240962,Light,Female,day_one
+"(4240962, 'Climbing', 'Light', '7 months')",Climbing,2.986909091,C57BL6/J,7 months,4240962,Light,Female,day_one
+"(4240962, 'distance (mm)', 'Dark', '12 months')",Distance,4497.523575,C57BL6/J,12 months,4240962,Dark,Female,day_one
+"(4240962, 'distance (mm)', 'Dark', '3 months')",Distance,5912.008073,C57BL6/J,3 months,4240962,Dark,Female,day_one
+"(4240962, 'distance (mm)', 'Dark', '7 months')",Distance,6545.458662,C57BL6/J,7 months,4240962,Dark,Female,day_one
+"(4240962, 'distance (mm)', 'Light', '12 months')",Distance,970.5037361,C57BL6/J,12 months,4240962,Light,Female,day_one
+"(4240962, 'distance (mm)', 'Light', '3 months')",Distance,1155.85868,C57BL6/J,3 months,4240962,Light,Female,day_one
+"(4240962, 'distance (mm)', 'Light', '7 months')",Distance,1226.841573,C57BL6/J,7 months,4240962,Light,Female,day_one
+"(4242121, 'Climbing', 'Dark', '12 months')",Climbing,36.392,C57BL6/J,12 months,4242121,Dark,Female,day_one
+"(4242121, 'Climbing', 'Dark', '3 months')",Climbing,76.51233333,C57BL6/J,3 months,4242121,Dark,Female,day_one
+"(4242121, 'Climbing', 'Dark', '7 months')",Climbing,53.23466667,C57BL6/J,7 months,4242121,Dark,Female,day_one
+"(4242121, 'Climbing', 'Light', '12 months')",Climbing,3.615272727,C57BL6/J,12 months,4242121,Light,Female,day_one
+"(4242121, 'Climbing', 'Light', '3 months')",Climbing,3.920727273,C57BL6/J,3 months,4242121,Light,Female,day_one
+"(4242121, 'Climbing', 'Light', '7 months')",Climbing,3.045818182,C57BL6/J,7 months,4242121,Light,Female,day_one
+"(4242121, 'distance (mm)', 'Dark', '12 months')",Distance,4397.862434,C57BL6/J,12 months,4242121,Dark,Female,day_one
+"(4242121, 'distance (mm)', 'Dark', '3 months')",Distance,6660.177768,C57BL6/J,3 months,4242121,Dark,Female,day_one
+"(4242121, 'distance (mm)', 'Dark', '7 months')",Distance,4644.304658,C57BL6/J,7 months,4242121,Dark,Female,day_one
+"(4242121, 'distance (mm)', 'Light', '12 months')",Distance,1088.674436,C57BL6/J,12 months,4242121,Light,Female,day_one
+"(4242121, 'distance (mm)', 'Light', '3 months')",Distance,1221.781463,C57BL6/J,3 months,4242121,Light,Female,day_one
+"(4242121, 'distance (mm)', 'Light', '7 months')",Distance,1099.333359,C57BL6/J,7 months,4242121,Light,Female,day_one
+"(4245170, 'Climbing', 'Dark', '12 months')",Climbing,32.40066667,C57BL6/J,12 months,4245170,Dark,Female,day_one
+"(4245170, 'Climbing', 'Dark', '3 months')",Climbing,54.92,C57BL6/J,3 months,4245170,Dark,Female,day_one
+"(4245170, 'Climbing', 'Dark', '7 months')",Climbing,31.52,C57BL6/J,7 months,4245170,Dark,Female,day_one
+"(4245170, 'Climbing', 'Light', '12 months')",Climbing,13.21309091,C57BL6/J,12 months,4245170,Light,Female,day_one
+"(4245170, 'Climbing', 'Light', '3 months')",Climbing,2.871272727,C57BL6/J,3 months,4245170,Light,Female,day_one
+"(4245170, 'Climbing', 'Light', '7 months')",Climbing,2.980363636,C57BL6/J,7 months,4245170,Light,Female,day_one
+"(4245170, 'distance (mm)', 'Dark', '12 months')",Distance,2162.797543,C57BL6/J,12 months,4245170,Dark,Female,day_one
+"(4245170, 'distance (mm)', 'Dark', '3 months')",Distance,4230.859059,C57BL6/J,3 months,4245170,Dark,Female,day_one
+"(4245170, 'distance (mm)', 'Dark', '7 months')",Distance,5313.804169,C57BL6/J,7 months,4245170,Dark,Female,day_one
+"(4245170, 'distance (mm)', 'Light', '12 months')",Distance,722.1171898,C57BL6/J,12 months,4245170,Light,Female,day_one
+"(4245170, 'distance (mm)', 'Light', '3 months')",Distance,1043.309977,C57BL6/J,3 months,4245170,Light,Female,day_one
+"(4245170, 'distance (mm)', 'Light', '7 months')",Distance,1417.642348,C57BL6/J,7 months,4245170,Light,Female,day_one
+"(4246248, 'Climbing', 'Dark', '12 months')",Climbing,78.74866667,C57BL6/J,12 months,4246248,Dark,Female,day_one
+"(4246248, 'Climbing', 'Dark', '3 months')",Climbing,105.3,C57BL6/J,3 months,4246248,Dark,Female,day_one
+"(4246248, 'Climbing', 'Dark', '7 months')",Climbing,154.5216667,C57BL6/J,7 months,4246248,Dark,Female,day_one
+"(4246248, 'Climbing', 'Light', '12 months')",Climbing,11.13963636,C57BL6/J,12 months,4246248,Light,Female,day_one
+"(4246248, 'Climbing', 'Light', '3 months')",Climbing,8.688,C57BL6/J,3 months,4246248,Light,Female,day_one
+"(4246248, 'Climbing', 'Light', '7 months')",Climbing,5.506909091,C57BL6/J,7 months,4246248,Light,Female,day_one
+"(4246248, 'distance (mm)', 'Dark', '12 months')",Distance,4035.002581,C57BL6/J,12 months,4246248,Dark,Female,day_one
+"(4246248, 'distance (mm)', 'Dark', '3 months')",Distance,7533.49431,C57BL6/J,3 months,4246248,Dark,Female,day_one
+"(4246248, 'distance (mm)', 'Dark', '7 months')",Distance,9448.147209,C57BL6/J,7 months,4246248,Dark,Female,day_one
+"(4246248, 'distance (mm)', 'Light', '12 months')",Distance,1730.455866,C57BL6/J,12 months,4246248,Light,Female,day_one
+"(4246248, 'distance (mm)', 'Light', '3 months')",Distance,1729.249693,C57BL6/J,3 months,4246248,Light,Female,day_one
+"(4246248, 'distance (mm)', 'Light', '7 months')",Distance,1769.359873,C57BL6/J,7 months,4246248,Light,Female,day_one
+"(4246781, 'Climbing', 'Dark', '12 months')",Climbing,21.332,C57BL6/J,12 months,4246781,Dark,Female,day_one
+"(4246781, 'Climbing', 'Dark', '7 months')",Climbing,96.124,C57BL6/J,7 months,4246781,Dark,Female,day_one
+"(4246781, 'Climbing', 'Light', '12 months')",Climbing,4.749818182,C57BL6/J,12 months,4246781,Light,Female,day_one
+"(4246781, 'Climbing', 'Light', '7 months')",Climbing,4.317818182,C57BL6/J,7 months,4246781,Light,Female,day_one
+"(4246781, 'distance (mm)', 'Dark', '12 months')",Distance,3885.098587,C57BL6/J,12 months,4246781,Dark,Female,day_one
+"(4246781, 'distance (mm)', 'Dark', '7 months')",Distance,8416.823636,C57BL6/J,7 months,4246781,Dark,Female,day_one
+"(4246781, 'distance (mm)', 'Light', '12 months')",Distance,1710.635432,C57BL6/J,12 months,4246781,Light,Female,day_one
+"(4246781, 'distance (mm)', 'Light', '7 months')",Distance,1176.244246,C57BL6/J,7 months,4246781,Light,Female,day_one
+"(4246787, 'Climbing', 'Dark', '3 months')",Climbing,165.328,C57BL6/J,3 months,4246787,Dark,Female,day_one
+"(4246787, 'Climbing', 'Light', '3 months')",Climbing,4.269818182,C57BL6/J,3 months,4246787,Light,Female,day_one
+"(4246787, 'distance (mm)', 'Dark', '3 months')",Distance,8947.850906,C57BL6/J,3 months,4246787,Dark,Female,day_one
+"(4246787, 'distance (mm)', 'Light', '3 months')",Distance,1084.827557,C57BL6/J,3 months,4246787,Light,Female,day_one
+"(4186074, 'Climbing', 'Dark', '12 months')",Climbing,24.472,C57BL6/J,12 months,4186074,Dark,Male,day_two
+"(4186074, 'Climbing', 'Dark', '3 months')",Climbing,6.544,C57BL6/J,3 months,4186074,Dark,Male,day_two
+"(4186074, 'Climbing', 'Dark', '7 months')",Climbing,7.382,C57BL6/J,7 months,4186074,Dark,Male,day_two
+"(4186074, 'Climbing', 'Light', '12 months')",Climbing,15.378,C57BL6/J,12 months,4186074,Light,Male,day_two
+"(4186074, 'Climbing', 'Light', '3 months')",Climbing,2.472,C57BL6/J,3 months,4186074,Light,Male,day_two
+"(4186074, 'Climbing', 'Light', '7 months')",Climbing,1.832,C57BL6/J,7 months,4186074,Light,Male,day_two
+"(4186074, 'distance (mm)', 'Dark', '12 months')",Distance,4226.898868,C57BL6/J,12 months,4186074,Dark,Male,day_two
+"(4186074, 'distance (mm)', 'Dark', '3 months')",Distance,3308.398779,C57BL6/J,3 months,4186074,Dark,Male,day_two
+"(4186074, 'distance (mm)', 'Dark', '7 months')",Distance,3807.26675,C57BL6/J,7 months,4186074,Dark,Male,day_two
+"(4186074, 'distance (mm)', 'Light', '12 months')",Distance,1484.249012,C57BL6/J,12 months,4186074,Light,Male,day_two
+"(4186074, 'distance (mm)', 'Light', '3 months')",Distance,1504.265578,C57BL6/J,3 months,4186074,Light,Male,day_two
+"(4186074, 'distance (mm)', 'Light', '7 months')",Distance,1915.837835,C57BL6/J,7 months,4186074,Light,Male,day_two
+"(4186084, 'Climbing', 'Dark', '12 months')",Climbing,6.69,C57BL6/J,12 months,4186084,Dark,Male,day_two
+"(4186084, 'Climbing', 'Dark', '3 months')",Climbing,6.326,C57BL6/J,3 months,4186084,Dark,Male,day_two
+"(4186084, 'Climbing', 'Dark', '7 months')",Climbing,6.744,C57BL6/J,7 months,4186084,Dark,Male,day_two
+"(4186084, 'Climbing', 'Light', '12 months')",Climbing,1.938,C57BL6/J,12 months,4186084,Light,Male,day_two
+"(4186084, 'Climbing', 'Light', '3 months')",Climbing,1.46,C57BL6/J,3 months,4186084,Light,Male,day_two
+"(4186084, 'Climbing', 'Light', '7 months')",Climbing,2.55,C57BL6/J,7 months,4186084,Light,Male,day_two
+"(4186084, 'distance (mm)', 'Dark', '12 months')",Distance,2877.454497,C57BL6/J,12 months,4186084,Dark,Male,day_two
+"(4186084, 'distance (mm)', 'Dark', '3 months')",Distance,2912.644675,C57BL6/J,3 months,4186084,Dark,Male,day_two
+"(4186084, 'distance (mm)', 'Dark', '7 months')",Distance,4207.899934,C57BL6/J,7 months,4186084,Dark,Male,day_two
+"(4186084, 'distance (mm)', 'Light', '12 months')",Distance,1195.055663,C57BL6/J,12 months,4186084,Light,Male,day_two
+"(4186084, 'distance (mm)', 'Light', '3 months')",Distance,1523.13342,C57BL6/J,3 months,4186084,Light,Male,day_two
+"(4186084, 'distance (mm)', 'Light', '7 months')",Distance,1365.74626,C57BL6/J,7 months,4186084,Light,Male,day_two
+"(4187459, 'Climbing', 'Dark', '12 months')",Climbing,2.122,C57BL6/J,12 months,4187459,Dark,Male,day_two
+"(4187459, 'Climbing', 'Dark', '3 months')",Climbing,15.068,C57BL6/J,3 months,4187459,Dark,Male,day_two
+"(4187459, 'Climbing', 'Dark', '7 months')",Climbing,6.988,C57BL6/J,7 months,4187459,Dark,Male,day_two
+"(4187459, 'Climbing', 'Light', '12 months')",Climbing,1.048,C57BL6/J,12 months,4187459,Light,Male,day_two
+"(4187459, 'Climbing', 'Light', '3 months')",Climbing,0.702,C57BL6/J,3 months,4187459,Light,Male,day_two
+"(4187459, 'Climbing', 'Light', '7 months')",Climbing,0.554,C57BL6/J,7 months,4187459,Light,Male,day_two
+"(4187459, 'distance (mm)', 'Dark', '12 months')",Distance,2372.171982,C57BL6/J,12 months,4187459,Dark,Male,day_two
+"(4187459, 'distance (mm)', 'Dark', '3 months')",Distance,3386.969086,C57BL6/J,3 months,4187459,Dark,Male,day_two
+"(4187459, 'distance (mm)', 'Dark', '7 months')",Distance,2278.713327,C57BL6/J,7 months,4187459,Dark,Male,day_two
+"(4187459, 'distance (mm)', 'Light', '12 months')",Distance,1310.367113,C57BL6/J,12 months,4187459,Light,Male,day_two
+"(4187459, 'distance (mm)', 'Light', '3 months')",Distance,1069.793371,C57BL6/J,3 months,4187459,Light,Male,day_two
+"(4187459, 'distance (mm)', 'Light', '7 months')",Distance,1070.330267,C57BL6/J,7 months,4187459,Light,Male,day_two
+"(4187463, 'Climbing', 'Dark', '12 months')",Climbing,9.230666667,C57BL6/J,12 months,4187463,Dark,Male,day_two
+"(4187463, 'Climbing', 'Dark', '3 months')",Climbing,22.446,C57BL6/J,3 months,4187463,Dark,Male,day_two
+"(4187463, 'Climbing', 'Dark', '7 months')",Climbing,21.33066667,C57BL6/J,7 months,4187463,Dark,Male,day_two
+"(4187463, 'Climbing', 'Light', '12 months')",Climbing,0.907333333,C57BL6/J,12 months,4187463,Light,Male,day_two
+"(4187463, 'Climbing', 'Light', '3 months')",Climbing,6.458,C57BL6/J,3 months,4187463,Light,Male,day_two
+"(4187463, 'Climbing', 'Light', '7 months')",Climbing,18.39533333,C57BL6/J,7 months,4187463,Light,Male,day_two
+"(4187463, 'distance (mm)', 'Dark', '12 months')",Distance,3362.527619,C57BL6/J,12 months,4187463,Dark,Male,day_two
+"(4187463, 'distance (mm)', 'Dark', '3 months')",Distance,4086.548665,C57BL6/J,3 months,4187463,Dark,Male,day_two
+"(4187463, 'distance (mm)', 'Dark', '7 months')",Distance,3715.000919,C57BL6/J,7 months,4187463,Dark,Male,day_two
+"(4187463, 'distance (mm)', 'Light', '12 months')",Distance,1418.800031,C57BL6/J,12 months,4187463,Light,Male,day_two
+"(4187463, 'distance (mm)', 'Light', '3 months')",Distance,1473.674275,C57BL6/J,3 months,4187463,Light,Male,day_two
+"(4187463, 'distance (mm)', 'Light', '7 months')",Distance,1736.720728,C57BL6/J,7 months,4187463,Light,Male,day_two
+"(4188123, 'Climbing', 'Dark', '12 months')",Climbing,10.162,C57BL6/J,12 months,4188123,Dark,Male,day_two
+"(4188123, 'Climbing', 'Dark', '3 months')",Climbing,9.456,C57BL6/J,3 months,4188123,Dark,Male,day_two
+"(4188123, 'Climbing', 'Dark', '7 months')",Climbing,8.78,C57BL6/J,7 months,4188123,Dark,Male,day_two
+"(4188123, 'Climbing', 'Light', '12 months')",Climbing,4.758,C57BL6/J,12 months,4188123,Light,Male,day_two
+"(4188123, 'Climbing', 'Light', '3 months')",Climbing,1.008,C57BL6/J,3 months,4188123,Light,Male,day_two
+"(4188123, 'Climbing', 'Light', '7 months')",Climbing,3.464,C57BL6/J,7 months,4188123,Light,Male,day_two
+"(4188123, 'distance (mm)', 'Dark', '12 months')",Distance,1779.530431,C57BL6/J,12 months,4188123,Dark,Male,day_two
+"(4188123, 'distance (mm)', 'Dark', '3 months')",Distance,3007.353403,C57BL6/J,3 months,4188123,Dark,Male,day_two
+"(4188123, 'distance (mm)', 'Dark', '7 months')",Distance,2785.351658,C57BL6/J,7 months,4188123,Dark,Male,day_two
+"(4188123, 'distance (mm)', 'Light', '12 months')",Distance,1252.324144,C57BL6/J,12 months,4188123,Light,Male,day_two
+"(4188123, 'distance (mm)', 'Light', '3 months')",Distance,1209.194629,C57BL6/J,3 months,4188123,Light,Male,day_two
+"(4188123, 'distance (mm)', 'Light', '7 months')",Distance,1227.170214,C57BL6/J,7 months,4188123,Light,Male,day_two
+"(4193912, 'Climbing', 'Dark', '12 months')",Climbing,15.504,C57BL6/J,12 months,4193912,Dark,Male,day_two
+"(4193912, 'Climbing', 'Dark', '3 months')",Climbing,50.594,C57BL6/J,3 months,4193912,Dark,Male,day_two
+"(4193912, 'Climbing', 'Dark', '7 months')",Climbing,7.733592233,C57BL6/J,7 months,4193912,Dark,Male,day_two
+"(4193912, 'Climbing', 'Light', '12 months')",Climbing,4.948,C57BL6/J,12 months,4193912,Light,Male,day_two
+"(4193912, 'Climbing', 'Light', '3 months')",Climbing,29.09833333,C57BL6/J,3 months,4193912,Light,Male,day_two
+"(4193912, 'Climbing', 'Light', '7 months')",Climbing,0.759272727,C57BL6/J,7 months,4193912,Light,Male,day_two
+"(4193912, 'distance (mm)', 'Dark', '12 months')",Distance,1465.192488,C57BL6/J,12 months,4193912,Dark,Male,day_two
+"(4193912, 'distance (mm)', 'Dark', '3 months')",Distance,4055.674278,C57BL6/J,3 months,4193912,Dark,Male,day_two
+"(4193912, 'distance (mm)', 'Dark', '7 months')",Distance,3546.54433,C57BL6/J,7 months,4193912,Dark,Male,day_two
+"(4193912, 'distance (mm)', 'Light', '12 months')",Distance,1066.352871,C57BL6/J,12 months,4193912,Light,Male,day_two
+"(4193912, 'distance (mm)', 'Light', '3 months')",Distance,846.5870333,C57BL6/J,3 months,4193912,Light,Male,day_two
+"(4193912, 'distance (mm)', 'Light', '7 months')",Distance,1317.624574,C57BL6/J,7 months,4193912,Light,Male,day_two
+"(4240953, 'Climbing', 'Dark', '12 months')",Climbing,16.796,C57BL6/J,12 months,4240953,Dark,Female,day_two
+"(4240953, 'Climbing', 'Dark', '3 months')",Climbing,35.487,C57BL6/J,3 months,4240953,Dark,Female,day_two
+"(4240953, 'Climbing', 'Dark', '7 months')",Climbing,44.794,C57BL6/J,7 months,4240953,Dark,Female,day_two
+"(4240953, 'Climbing', 'Light', '12 months')",Climbing,2.264,C57BL6/J,12 months,4240953,Light,Female,day_two
+"(4240953, 'Climbing', 'Light', '3 months')",Climbing,4.533,C57BL6/J,3 months,4240953,Light,Female,day_two
+"(4240953, 'Climbing', 'Light', '7 months')",Climbing,9.97,C57BL6/J,7 months,4240953,Light,Female,day_two
+"(4240953, 'distance (mm)', 'Dark', '12 months')",Distance,3141.7304,C57BL6/J,12 months,4240953,Dark,Female,day_two
+"(4240953, 'distance (mm)', 'Dark', '3 months')",Distance,4523.961835,C57BL6/J,3 months,4240953,Dark,Female,day_two
+"(4240953, 'distance (mm)', 'Dark', '7 months')",Distance,3390.526651,C57BL6/J,7 months,4240953,Dark,Female,day_two
+"(4240953, 'distance (mm)', 'Light', '12 months')",Distance,1450.562115,C57BL6/J,12 months,4240953,Light,Female,day_two
+"(4240953, 'distance (mm)', 'Light', '3 months')",Distance,1380.88007,C57BL6/J,3 months,4240953,Light,Female,day_two
+"(4240953, 'distance (mm)', 'Light', '7 months')",Distance,1514.45938,C57BL6/J,7 months,4240953,Light,Female,day_two
+"(4240962, 'Climbing', 'Dark', '12 months')",Climbing,81.147,C57BL6/J,12 months,4240962,Dark,Female,day_two
+"(4240962, 'Climbing', 'Dark', '3 months')",Climbing,110.328,C57BL6/J,3 months,4240962,Dark,Female,day_two
+"(4240962, 'Climbing', 'Dark', '7 months')",Climbing,58.68533333,C57BL6/J,7 months,4240962,Dark,Female,day_two
+"(4240962, 'Climbing', 'Light', '12 months')",Climbing,1.757,C57BL6/J,12 months,4240962,Light,Female,day_two
+"(4240962, 'Climbing', 'Light', '3 months')",Climbing,9.758,C57BL6/J,3 months,4240962,Light,Female,day_two
+"(4240962, 'Climbing', 'Light', '7 months')",Climbing,10.36666667,C57BL6/J,7 months,4240962,Light,Female,day_two
+"(4240962, 'distance (mm)', 'Dark', '12 months')",Distance,5495.406112,C57BL6/J,12 months,4240962,Dark,Female,day_two
+"(4240962, 'distance (mm)', 'Dark', '3 months')",Distance,6169.754011,C57BL6/J,3 months,4240962,Dark,Female,day_two
+"(4240962, 'distance (mm)', 'Dark', '7 months')",Distance,5784.285958,C57BL6/J,7 months,4240962,Dark,Female,day_two
+"(4240962, 'distance (mm)', 'Light', '12 months')",Distance,1138.85685,C57BL6/J,12 months,4240962,Light,Female,day_two
+"(4240962, 'distance (mm)', 'Light', '3 months')",Distance,1739.241215,C57BL6/J,3 months,4240962,Light,Female,day_two
+"(4240962, 'distance (mm)', 'Light', '7 months')",Distance,1428.879126,C57BL6/J,7 months,4240962,Light,Female,day_two
+"(4242121, 'Climbing', 'Dark', '12 months')",Climbing,24.852,C57BL6/J,12 months,4242121,Dark,Female,day_two
+"(4242121, 'Climbing', 'Dark', '3 months')",Climbing,73.29033333,C57BL6/J,3 months,4242121,Dark,Female,day_two
+"(4242121, 'Climbing', 'Dark', '7 months')",Climbing,53.446,C57BL6/J,7 months,4242121,Dark,Female,day_two
+"(4242121, 'Climbing', 'Light', '12 months')",Climbing,2.136,C57BL6/J,12 months,4242121,Light,Female,day_two
+"(4242121, 'Climbing', 'Light', '3 months')",Climbing,5.643666667,C57BL6/J,3 months,4242121,Light,Female,day_two
+"(4242121, 'Climbing', 'Light', '7 months')",Climbing,4.878,C57BL6/J,7 months,4242121,Light,Female,day_two
+"(4242121, 'distance (mm)', 'Dark', '12 months')",Distance,3874.718989,C57BL6/J,12 months,4242121,Dark,Female,day_two
+"(4242121, 'distance (mm)', 'Dark', '3 months')",Distance,7866.235002,C57BL6/J,3 months,4242121,Dark,Female,day_two
+"(4242121, 'distance (mm)', 'Dark', '7 months')",Distance,6444.936233,C57BL6/J,7 months,4242121,Dark,Female,day_two
+"(4242121, 'distance (mm)', 'Light', '12 months')",Distance,1100.208136,C57BL6/J,12 months,4242121,Light,Female,day_two
+"(4242121, 'distance (mm)', 'Light', '3 months')",Distance,1453.960984,C57BL6/J,3 months,4242121,Light,Female,day_two
+"(4242121, 'distance (mm)', 'Light', '7 months')",Distance,1678.145036,C57BL6/J,7 months,4242121,Light,Female,day_two
+"(4245170, 'Climbing', 'Dark', '12 months')",Climbing,27.278,C57BL6/J,12 months,4245170,Dark,Female,day_two
+"(4245170, 'Climbing', 'Dark', '3 months')",Climbing,27.102,C57BL6/J,3 months,4245170,Dark,Female,day_two
+"(4245170, 'Climbing', 'Dark', '7 months')",Climbing,50.99,C57BL6/J,7 months,4245170,Dark,Female,day_two
+"(4245170, 'Climbing', 'Light', '12 months')",Climbing,19.226,C57BL6/J,12 months,4245170,Light,Female,day_two
+"(4245170, 'Climbing', 'Light', '3 months')",Climbing,4.158,C57BL6/J,3 months,4245170,Light,Female,day_two
+"(4245170, 'Climbing', 'Light', '7 months')",Climbing,4.75,C57BL6/J,7 months,4245170,Light,Female,day_two
+"(4245170, 'distance (mm)', 'Dark', '12 months')",Distance,1744.997502,C57BL6/J,12 months,4245170,Dark,Female,day_two
+"(4245170, 'distance (mm)', 'Dark', '3 months')",Distance,5233.437335,C57BL6/J,3 months,4245170,Dark,Female,day_two
+"(4245170, 'distance (mm)', 'Dark', '7 months')",Distance,6789.73359,C57BL6/J,7 months,4245170,Dark,Female,day_two
+"(4245170, 'distance (mm)', 'Light', '12 months')",Distance,1170.109573,C57BL6/J,12 months,4245170,Light,Female,day_two
+"(4245170, 'distance (mm)', 'Light', '3 months')",Distance,1302.33569,C57BL6/J,3 months,4245170,Light,Female,day_two
+"(4245170, 'distance (mm)', 'Light', '7 months')",Distance,1245.41523,C57BL6/J,7 months,4245170,Light,Female,day_two
+"(4246248, 'Climbing', 'Dark', '12 months')",Climbing,82.62666667,C57BL6/J,12 months,4246248,Dark,Female,day_two
+"(4246248, 'Climbing', 'Dark', '3 months')",Climbing,113.172,C57BL6/J,3 months,4246248,Dark,Female,day_two
+"(4246248, 'Climbing', 'Dark', '7 months')",Climbing,109.226,C57BL6/J,7 months,4246248,Dark,Female,day_two
+"(4246248, 'Climbing', 'Light', '12 months')",Climbing,6.227333333,C57BL6/J,12 months,4246248,Light,Female,day_two
+"(4246248, 'Climbing', 'Light', '3 months')",Climbing,15.144,C57BL6/J,3 months,4246248,Light,Female,day_two
+"(4246248, 'Climbing', 'Light', '7 months')",Climbing,9.21,C57BL6/J,7 months,4246248,Light,Female,day_two
+"(4246248, 'distance (mm)', 'Dark', '12 months')",Distance,3893.453025,C57BL6/J,12 months,4246248,Dark,Female,day_two
+"(4246248, 'distance (mm)', 'Dark', '3 months')",Distance,8374.045901,C57BL6/J,3 months,4246248,Dark,Female,day_two
+"(4246248, 'distance (mm)', 'Dark', '7 months')",Distance,9459.768079,C57BL6/J,7 months,4246248,Dark,Female,day_two
+"(4246248, 'distance (mm)', 'Light', '12 months')",Distance,1768.981069,C57BL6/J,12 months,4246248,Light,Female,day_two
+"(4246248, 'distance (mm)', 'Light', '3 months')",Distance,2093.348362,C57BL6/J,3 months,4246248,Light,Female,day_two
+"(4246248, 'distance (mm)', 'Light', '7 months')",Distance,1750.508588,C57BL6/J,7 months,4246248,Light,Female,day_two
+"(4246781, 'Climbing', 'Dark', '12 months')",Climbing,25.24633333,C57BL6/J,12 months,4246781,Dark,Female,day_two
+"(4246781, 'Climbing', 'Dark', '7 months')",Climbing,67.618,C57BL6/J,7 months,4246781,Dark,Female,day_two
+"(4246781, 'Climbing', 'Light', '12 months')",Climbing,3.929666667,C57BL6/J,12 months,4246781,Light,Female,day_two
+"(4246781, 'Climbing', 'Light', '7 months')",Climbing,4.08,C57BL6/J,7 months,4246781,Light,Female,day_two
+"(4246781, 'distance (mm)', 'Dark', '12 months')",Distance,4776.570574,C57BL6/J,12 months,4246781,Dark,Female,day_two
+"(4246781, 'distance (mm)', 'Dark', '7 months')",Distance,7479.57759,C57BL6/J,7 months,4246781,Dark,Female,day_two
+"(4246781, 'distance (mm)', 'Light', '12 months')",Distance,1132.920138,C57BL6/J,12 months,4246781,Light,Female,day_two
+"(4246781, 'distance (mm)', 'Light', '7 months')",Distance,1338.002194,C57BL6/J,7 months,4246781,Light,Female,day_two
+"(4246787, 'Climbing', 'Dark', '3 months')",Climbing,81.47666667,C57BL6/J,3 months,4246787,Dark,Female,day_two
+"(4246787, 'Climbing', 'Light', '3 months')",Climbing,5.941333333,C57BL6/J,3 months,4246787,Light,Female,day_two
+"(4246787, 'distance (mm)', 'Dark', '3 months')",Distance,6768.194177,C57BL6/J,3 months,4246787,Dark,Female,day_two
+"(4246787, 'distance (mm)', 'Light', '3 months')",Distance,1601.65595,C57BL6/J,3 months,4246787,Light,Female,day_two
+"(4186074, 'Climbing', 'Dark', '12 months')",Climbing,18.1,C57BL6/J,12 months,4186074,Dark,Male,day_three
+"(4186074, 'Climbing', 'Dark', '3 months')",Climbing,7.27,C57BL6/J,3 months,4186074,Dark,Male,day_three
+"(4186074, 'Climbing', 'Dark', '7 months')",Climbing,6.63,C57BL6/J,7 months,4186074,Dark,Male,day_three
+"(4186074, 'Climbing', 'Light', '12 months')",Climbing,14.676,C57BL6/J,12 months,4186074,Light,Male,day_three
+"(4186074, 'Climbing', 'Light', '3 months')",Climbing,5.244,C57BL6/J,3 months,4186074,Light,Male,day_three
+"(4186074, 'Climbing', 'Light', '7 months')",Climbing,1.512,C57BL6/J,7 months,4186074,Light,Male,day_three
+"(4186074, 'distance (mm)', 'Dark', '12 months')",Distance,2822.541838,C57BL6/J,12 months,4186074,Dark,Male,day_three
+"(4186074, 'distance (mm)', 'Dark', '3 months')",Distance,3851.387248,C57BL6/J,3 months,4186074,Dark,Male,day_three
+"(4186074, 'distance (mm)', 'Dark', '7 months')",Distance,3748.582114,C57BL6/J,7 months,4186074,Dark,Male,day_three
+"(4186074, 'distance (mm)', 'Light', '12 months')",Distance,1855.067639,C57BL6/J,12 months,4186074,Light,Male,day_three
+"(4186074, 'distance (mm)', 'Light', '3 months')",Distance,2970.103029,C57BL6/J,3 months,4186074,Light,Male,day_three
+"(4186074, 'distance (mm)', 'Light', '7 months')",Distance,2136.814507,C57BL6/J,7 months,4186074,Light,Male,day_three
+"(4186084, 'Climbing', 'Dark', '12 months')",Climbing,10.264,C57BL6/J,12 months,4186084,Dark,Male,day_three
+"(4186084, 'Climbing', 'Dark', '3 months')",Climbing,5.648,C57BL6/J,3 months,4186084,Dark,Male,day_three
+"(4186084, 'Climbing', 'Dark', '7 months')",Climbing,18.242,C57BL6/J,7 months,4186084,Dark,Male,day_three
+"(4186084, 'Climbing', 'Light', '12 months')",Climbing,2.22,C57BL6/J,12 months,4186084,Light,Male,day_three
+"(4186084, 'Climbing', 'Light', '3 months')",Climbing,7.44,C57BL6/J,3 months,4186084,Light,Male,day_three
+"(4186084, 'Climbing', 'Light', '7 months')",Climbing,9.072,C57BL6/J,7 months,4186084,Light,Male,day_three
+"(4186084, 'distance (mm)', 'Dark', '12 months')",Distance,2820.135261,C57BL6/J,12 months,4186084,Dark,Male,day_three
+"(4186084, 'distance (mm)', 'Dark', '3 months')",Distance,3399.118064,C57BL6/J,3 months,4186084,Dark,Male,day_three
+"(4186084, 'distance (mm)', 'Dark', '7 months')",Distance,3028.22131,C57BL6/J,7 months,4186084,Dark,Male,day_three
+"(4186084, 'distance (mm)', 'Light', '12 months')",Distance,1674.938069,C57BL6/J,12 months,4186084,Light,Male,day_three
+"(4186084, 'distance (mm)', 'Light', '3 months')",Distance,4408.649612,C57BL6/J,3 months,4186084,Light,Male,day_three
+"(4186084, 'distance (mm)', 'Light', '7 months')",Distance,3928.164046,C57BL6/J,7 months,4186084,Light,Male,day_three
+"(4187459, 'Climbing', 'Dark', '12 months')",Climbing,4.886,C57BL6/J,12 months,4187459,Dark,Male,day_three
+"(4187459, 'Climbing', 'Dark', '3 months')",Climbing,15.226,C57BL6/J,3 months,4187459,Dark,Male,day_three
+"(4187459, 'Climbing', 'Dark', '7 months')",Climbing,12.15766667,C57BL6/J,7 months,4187459,Dark,Male,day_three
+"(4187459, 'Climbing', 'Light', '12 months')",Climbing,2.856,C57BL6/J,12 months,4187459,Light,Male,day_three
+"(4187459, 'Climbing', 'Light', '3 months')",Climbing,2.616,C57BL6/J,3 months,4187459,Light,Male,day_three
+"(4187459, 'Climbing', 'Light', '7 months')",Climbing,4.61,C57BL6/J,7 months,4187459,Light,Male,day_three
+"(4187459, 'distance (mm)', 'Dark', '12 months')",Distance,2583.923531,C57BL6/J,12 months,4187459,Dark,Male,day_three
+"(4187459, 'distance (mm)', 'Dark', '3 months')",Distance,2820.311306,C57BL6/J,3 months,4187459,Dark,Male,day_three
+"(4187459, 'distance (mm)', 'Dark', '7 months')",Distance,2845.968091,C57BL6/J,7 months,4187459,Dark,Male,day_three
+"(4187459, 'distance (mm)', 'Light', '12 months')",Distance,1586.219438,C57BL6/J,12 months,4187459,Light,Male,day_three
+"(4187459, 'distance (mm)', 'Light', '3 months')",Distance,1073.149877,C57BL6/J,3 months,4187459,Light,Male,day_three
+"(4187459, 'distance (mm)', 'Light', '7 months')",Distance,1527.333422,C57BL6/J,7 months,4187459,Light,Male,day_three
+"(4187463, 'Climbing', 'Dark', '12 months')",Climbing,7.814,C57BL6/J,12 months,4187463,Dark,Male,day_three
+"(4187463, 'Climbing', 'Dark', '3 months')",Climbing,25.576,C57BL6/J,3 months,4187463,Dark,Male,day_three
+"(4187463, 'Climbing', 'Dark', '7 months')",Climbing,37.868,C57BL6/J,7 months,4187463,Dark,Male,day_three
+"(4187463, 'Climbing', 'Light', '12 months')",Climbing,8.52,C57BL6/J,12 months,4187463,Light,Male,day_three
+"(4187463, 'Climbing', 'Light', '3 months')",Climbing,9.48,C57BL6/J,3 months,4187463,Light,Male,day_three
+"(4187463, 'Climbing', 'Light', '7 months')",Climbing,20.328,C57BL6/J,7 months,4187463,Light,Male,day_three
+"(4187463, 'distance (mm)', 'Dark', '12 months')",Distance,2809.867749,C57BL6/J,12 months,4187463,Dark,Male,day_three
+"(4187463, 'distance (mm)', 'Dark', '3 months')",Distance,5011.076852,C57BL6/J,3 months,4187463,Dark,Male,day_three
+"(4187463, 'distance (mm)', 'Dark', '7 months')",Distance,3788.288832,C57BL6/J,7 months,4187463,Dark,Male,day_three
+"(4187463, 'distance (mm)', 'Light', '12 months')",Distance,3872.150636,C57BL6/J,12 months,4187463,Light,Male,day_three
+"(4187463, 'distance (mm)', 'Light', '3 months')",Distance,3531.035126,C57BL6/J,3 months,4187463,Light,Male,day_three
+"(4187463, 'distance (mm)', 'Light', '7 months')",Distance,3152.358826,C57BL6/J,7 months,4187463,Light,Male,day_three
+"(4188123, 'Climbing', 'Dark', '12 months')",Climbing,7.48,C57BL6/J,12 months,4188123,Dark,Male,day_three
+"(4188123, 'Climbing', 'Dark', '3 months')",Climbing,11.772,C57BL6/J,3 months,4188123,Dark,Male,day_three
+"(4188123, 'Climbing', 'Dark', '7 months')",Climbing,13.708,C57BL6/J,7 months,4188123,Dark,Male,day_three
+"(4188123, 'Climbing', 'Light', '12 months')",Climbing,33.74,C57BL6/J,12 months,4188123,Light,Male,day_three
+"(4188123, 'Climbing', 'Light', '3 months')",Climbing,0,C57BL6/J,3 months,4188123,Light,Male,day_three
+"(4188123, 'Climbing', 'Light', '7 months')",Climbing,7.608,C57BL6/J,7 months,4188123,Light,Male,day_three
+"(4188123, 'distance (mm)', 'Dark', '12 months')",Distance,1564.787777,C57BL6/J,12 months,4188123,Dark,Male,day_three
+"(4188123, 'distance (mm)', 'Dark', '3 months')",Distance,3639.317794,C57BL6/J,3 months,4188123,Dark,Male,day_three
+"(4188123, 'distance (mm)', 'Dark', '7 months')",Distance,3050.929851,C57BL6/J,7 months,4188123,Dark,Male,day_three
+"(4188123, 'distance (mm)', 'Light', '12 months')",Distance,2754.472142,C57BL6/J,12 months,4188123,Light,Male,day_three
+"(4188123, 'distance (mm)', 'Light', '3 months')",Distance,1469.219257,C57BL6/J,3 months,4188123,Light,Male,day_three
+"(4188123, 'distance (mm)', 'Light', '7 months')",Distance,2262.728514,C57BL6/J,7 months,4188123,Light,Male,day_three
+"(4193912, 'Climbing', 'Dark', '12 months')",Climbing,8.91,C57BL6/J,12 months,4193912,Dark,Male,day_three
+"(4193912, 'Climbing', 'Dark', '3 months')",Climbing,54.02966667,C57BL6/J,3 months,4193912,Dark,Male,day_three
+"(4193912, 'Climbing', 'Dark', '7 months')",Climbing,7.67,C57BL6/J,7 months,4193912,Dark,Male,day_three
+"(4193912, 'Climbing', 'Light', '12 months')",Climbing,23.36,C57BL6/J,12 months,4193912,Light,Male,day_three
+"(4193912, 'Climbing', 'Light', '3 months')",Climbing,32.234,C57BL6/J,3 months,4193912,Light,Male,day_three
+"(4193912, 'Climbing', 'Light', '7 months')",Climbing,1.632,C57BL6/J,7 months,4193912,Light,Male,day_three
+"(4193912, 'distance (mm)', 'Dark', '12 months')",Distance,1768.55401,C57BL6/J,12 months,4193912,Dark,Male,day_three
+"(4193912, 'distance (mm)', 'Dark', '3 months')",Distance,4055.25999,C57BL6/J,3 months,4193912,Dark,Male,day_three
+"(4193912, 'distance (mm)', 'Dark', '7 months')",Distance,3701.397675,C57BL6/J,7 months,4193912,Dark,Male,day_three
+"(4193912, 'distance (mm)', 'Light', '12 months')",Distance,3077.590082,C57BL6/J,12 months,4193912,Light,Male,day_three
+"(4193912, 'distance (mm)', 'Light', '3 months')",Distance,1851.589891,C57BL6/J,3 months,4193912,Light,Male,day_three
+"(4193912, 'distance (mm)', 'Light', '7 months')",Distance,1741.897978,C57BL6/J,7 months,4193912,Light,Male,day_three
+"(4240953, 'Climbing', 'Dark', '12 months')",Climbing,17.682,C57BL6/J,12 months,4240953,Dark,Female,day_three
+"(4240953, 'Climbing', 'Dark', '3 months')",Climbing,39.66,C57BL6/J,3 months,4240953,Dark,Female,day_three
+"(4240953, 'Climbing', 'Dark', '7 months')",Climbing,53.65566667,C57BL6/J,7 months,4240953,Dark,Female,day_three
+"(4240953, 'Climbing', 'Light', '12 months')",Climbing,3.756,C57BL6/J,12 months,4240953,Light,Female,day_three
+"(4240953, 'Climbing', 'Light', '3 months')",Climbing,21.072,C57BL6/J,3 months,4240953,Light,Female,day_three
+"(4240953, 'Climbing', 'Light', '7 months')",Climbing,15.194,C57BL6/J,7 months,4240953,Light,Female,day_three
+"(4240953, 'distance (mm)', 'Dark', '12 months')",Distance,3570.700406,C57BL6/J,12 months,4240953,Dark,Female,day_three
+"(4240953, 'distance (mm)', 'Dark', '3 months')",Distance,5979.634985,C57BL6/J,3 months,4240953,Dark,Female,day_three
+"(4240953, 'distance (mm)', 'Dark', '7 months')",Distance,3735.001941,C57BL6/J,7 months,4240953,Dark,Female,day_three
+"(4240953, 'distance (mm)', 'Light', '12 months')",Distance,3261.195594,C57BL6/J,12 months,4240953,Light,Female,day_three
+"(4240953, 'distance (mm)', 'Light', '3 months')",Distance,3150.586969,C57BL6/J,3 months,4240953,Light,Female,day_three
+"(4240953, 'distance (mm)', 'Light', '7 months')",Distance,4344.79789,C57BL6/J,7 months,4240953,Light,Female,day_three
+"(4240962, 'Climbing', 'Dark', '12 months')",Climbing,42.72,C57BL6/J,12 months,4240962,Dark,Female,day_three
+"(4240962, 'Climbing', 'Dark', '3 months')",Climbing,160.08,C57BL6/J,3 months,4240962,Dark,Female,day_three
+"(4240962, 'Climbing', 'Dark', '7 months')",Climbing,70.61333333,C57BL6/J,7 months,4240962,Dark,Female,day_three
+"(4240962, 'Climbing', 'Light', '12 months')",Climbing,2.064,C57BL6/J,12 months,4240962,Light,Female,day_three
+"(4240962, 'Climbing', 'Light', '3 months')",Climbing,42.636,C57BL6/J,3 months,4240962,Light,Female,day_three
+"(4240962, 'Climbing', 'Light', '7 months')",Climbing,46.78,C57BL6/J,7 months,4240962,Light,Female,day_three
+"(4240962, 'distance (mm)', 'Dark', '12 months')",Distance,6421.995624,C57BL6/J,12 months,4240962,Dark,Female,day_three
+"(4240962, 'distance (mm)', 'Dark', '3 months')",Distance,8140.167326,C57BL6/J,3 months,4240962,Dark,Female,day_three
+"(4240962, 'distance (mm)', 'Dark', '7 months')",Distance,6741.507566,C57BL6/J,7 months,4240962,Dark,Female,day_three
+"(4240962, 'distance (mm)', 'Light', '12 months')",Distance,2146.852135,C57BL6/J,12 months,4240962,Light,Female,day_three
+"(4240962, 'distance (mm)', 'Light', '3 months')",Distance,3402.996363,C57BL6/J,3 months,4240962,Light,Female,day_three
+"(4240962, 'distance (mm)', 'Light', '7 months')",Distance,4121.363514,C57BL6/J,7 months,4240962,Light,Female,day_three
+"(4242121, 'Climbing', 'Dark', '12 months')",Climbing,43.67,C57BL6/J,12 months,4242121,Dark,Female,day_three
+"(4242121, 'Climbing', 'Dark', '3 months')",Climbing,120.6523333,C57BL6/J,3 months,4242121,Dark,Female,day_three
+"(4242121, 'Climbing', 'Dark', '7 months')",Climbing,93.792,C57BL6/J,7 months,4242121,Dark,Female,day_three
+"(4242121, 'Climbing', 'Light', '12 months')",Climbing,0.984,C57BL6/J,12 months,4242121,Light,Female,day_three
+"(4242121, 'Climbing', 'Light', '3 months')",Climbing,11.206,C57BL6/J,3 months,4242121,Light,Female,day_three
+"(4242121, 'Climbing', 'Light', '7 months')",Climbing,6.168,C57BL6/J,7 months,4242121,Light,Female,day_three
+"(4242121, 'distance (mm)', 'Dark', '12 months')",Distance,5265.778809,C57BL6/J,12 months,4242121,Dark,Female,day_three
+"(4242121, 'distance (mm)', 'Dark', '3 months')",Distance,9066.652586,C57BL6/J,3 months,4242121,Dark,Female,day_three
+"(4242121, 'distance (mm)', 'Dark', '7 months')",Distance,10846.43937,C57BL6/J,7 months,4242121,Dark,Female,day_three
+"(4242121, 'distance (mm)', 'Light', '12 months')",Distance,1451.422322,C57BL6/J,12 months,4242121,Light,Female,day_three
+"(4242121, 'distance (mm)', 'Light', '3 months')",Distance,2061.487744,C57BL6/J,3 months,4242121,Light,Female,day_three
+"(4242121, 'distance (mm)', 'Light', '7 months')",Distance,1112.280773,C57BL6/J,7 months,4242121,Light,Female,day_three
+"(4245170, 'Climbing', 'Dark', '12 months')",Climbing,46.04,C57BL6/J,12 months,4245170,Dark,Female,day_three
+"(4245170, 'Climbing', 'Dark', '3 months')",Climbing,47.424,C57BL6/J,3 months,4245170,Dark,Female,day_three
+"(4245170, 'Climbing', 'Dark', '7 months')",Climbing,37.882,C57BL6/J,7 months,4245170,Dark,Female,day_three
+"(4245170, 'Climbing', 'Light', '12 months')",Climbing,17.748,C57BL6/J,12 months,4245170,Light,Female,day_three
+"(4245170, 'Climbing', 'Light', '3 months')",Climbing,6.588,C57BL6/J,3 months,4245170,Light,Female,day_three
+"(4245170, 'Climbing', 'Light', '7 months')",Climbing,13.908,C57BL6/J,7 months,4245170,Light,Female,day_three
+"(4245170, 'distance (mm)', 'Dark', '12 months')",Distance,2098.109264,C57BL6/J,12 months,4245170,Dark,Female,day_three
+"(4245170, 'distance (mm)', 'Dark', '3 months')",Distance,6253.677544,C57BL6/J,3 months,4245170,Dark,Female,day_three
+"(4245170, 'distance (mm)', 'Dark', '7 months')",Distance,6131.69606,C57BL6/J,7 months,4245170,Dark,Female,day_three
+"(4245170, 'distance (mm)', 'Light', '12 months')",Distance,1343.024031,C57BL6/J,12 months,4245170,Light,Female,day_three
+"(4245170, 'distance (mm)', 'Light', '3 months')",Distance,1293.313056,C57BL6/J,3 months,4245170,Light,Female,day_three
+"(4245170, 'distance (mm)', 'Light', '7 months')",Distance,5063.555078,C57BL6/J,7 months,4245170,Light,Female,day_three
+"(4246248, 'Climbing', 'Dark', '12 months')",Climbing,104.92,C57BL6/J,12 months,4246248,Dark,Female,day_three
+"(4246248, 'Climbing', 'Dark', '3 months')",Climbing,130.51,C57BL6/J,3 months,4246248,Dark,Female,day_three
+"(4246248, 'Climbing', 'Dark', '7 months')",Climbing,170.4056667,C57BL6/J,7 months,4246248,Dark,Female,day_three
+"(4246248, 'Climbing', 'Light', '12 months')",Climbing,19.416,C57BL6/J,12 months,4246248,Light,Female,day_three
+"(4246248, 'Climbing', 'Light', '3 months')",Climbing,38.292,C57BL6/J,3 months,4246248,Light,Female,day_three
+"(4246248, 'Climbing', 'Light', '7 months')",Climbing,35.738,C57BL6/J,7 months,4246248,Light,Female,day_three
+"(4246248, 'distance (mm)', 'Dark', '12 months')",Distance,4916.270223,C57BL6/J,12 months,4246248,Dark,Female,day_three
+"(4246248, 'distance (mm)', 'Dark', '3 months')",Distance,9274.621835,C57BL6/J,3 months,4246248,Dark,Female,day_three
+"(4246248, 'distance (mm)', 'Dark', '7 months')",Distance,11132.36458,C57BL6/J,7 months,4246248,Dark,Female,day_three
+"(4246248, 'distance (mm)', 'Light', '12 months')",Distance,4734.721758,C57BL6/J,12 months,4246248,Light,Female,day_three
+"(4246248, 'distance (mm)', 'Light', '3 months')",Distance,2743.773388,C57BL6/J,3 months,4246248,Light,Female,day_three
+"(4246248, 'distance (mm)', 'Light', '7 months')",Distance,4395.895474,C57BL6/J,7 months,4246248,Light,Female,day_three
+"(4246781, 'Climbing', 'Dark', '12 months')",Climbing,26.85433333,C57BL6/J,12 months,4246781,Dark,Female,day_three
+"(4246781, 'Climbing', 'Dark', '7 months')",Climbing,56.506,C57BL6/J,7 months,4246781,Dark,Female,day_three
+"(4246781, 'Climbing', 'Light', '12 months')",Climbing,16.798,C57BL6/J,12 months,4246781,Light,Female,day_three
+"(4246781, 'Climbing', 'Light', '7 months')",Climbing,30.78,C57BL6/J,7 months,4246781,Light,Female,day_three
+"(4246781, 'distance (mm)', 'Dark', '12 months')",Distance,4975.678543,C57BL6/J,12 months,4246781,Dark,Female,day_three
+"(4246781, 'distance (mm)', 'Dark', '7 months')",Distance,6387.886186,C57BL6/J,7 months,4246781,Dark,Female,day_three
+"(4246781, 'distance (mm)', 'Light', '12 months')",Distance,4345.039279,C57BL6/J,12 months,4246781,Light,Female,day_three
+"(4246781, 'distance (mm)', 'Light', '7 months')",Distance,8254.087699,C57BL6/J,7 months,4246781,Light,Female,day_three
+"(4246787, 'Climbing', 'Dark', '3 months')",Climbing,101.1106667,C57BL6/J,3 months,4246787,Dark,Female,day_three
+"(4246787, 'Climbing', 'Light', '3 months')",Climbing,18.848,C57BL6/J,3 months,4246787,Light,Female,day_three
+"(4246787, 'distance (mm)', 'Dark', '3 months')",Distance,7749.276017,C57BL6/J,3 months,4246787,Dark,Female,day_three
+"(4246787, 'distance (mm)', 'Light', '3 months')",Distance,3329.448697,C57BL6/J,3 months,4246787,Light,Female,day_three

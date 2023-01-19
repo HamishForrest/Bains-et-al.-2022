@@ -1,0 +1,505 @@
+,Action,value,Genotype,Age,Cage,Sex,timepoint
+"(4192216, 'Male', '13 weeks', 'Climbing')",Climbing,132.24,Rbmb6 HD:WT,13 weeks,4192216,Male,day_one
+"(4192216, 'Male', '13 weeks', 'distance (mm)')",Distance,7537.259216,Rbmb6 HD:WT,13 weeks,4192216,Male,day_one
+"(4192216, 'Male', '15-16 weeks', 'Climbing')",Climbing,124.224,Rbmb6 HD:WT,15-16 weeks,4192216,Male,day_one
+"(4192216, 'Male', '15-16 weeks', 'distance (mm)')",Distance,9197.204468,Rbmb6 HD:WT,15-16 weeks,4192216,Male,day_one
+"(4192216, 'Male', '8 weeks', 'Climbing')",Climbing,82.344,Rbmb6 HD:WT,8 weeks,4192216,Male,day_one
+"(4192216, 'Male', '8 weeks', 'distance (mm)')",Distance,9825.03872,Rbmb6 HD:WT,8 weeks,4192216,Male,day_one
+"(4200742, 'Male', '13 weeks', 'Climbing')",Climbing,20.64,Rbmb6 HD:Het,13 weeks,4200742,Male,day_one
+"(4200742, 'Male', '13 weeks', 'distance (mm)')",Distance,8687.821289,Rbmb6 HD:Het,13 weeks,4200742,Male,day_one
+"(4200742, 'Male', '8 weeks', 'Climbing')",Climbing,171.216,Rbmb6 HD:Het,8 weeks,4200742,Male,day_one
+"(4200742, 'Male', '8 weeks', 'distance (mm)')",Distance,10590.59221,Rbmb6 HD:Het,8 weeks,4200742,Male,day_one
+"(4247842, 'Female', '13 weeks', 'Climbing')",Climbing,148.896,Rbmb6 HD:Het,13 weeks,4247842,Female,day_one
+"(4247842, 'Female', '13 weeks', 'distance (mm)')",Distance,7689.477077,Rbmb6 HD:Het,13 weeks,4247842,Female,day_one
+"(4249098, 'Female', '13 weeks', 'Climbing')",Climbing,19.632,Rbmb6 HD:Het,13 weeks,4249098,Female,day_one
+"(4249098, 'Female', '13 weeks', 'distance (mm)')",Distance,7812.978174,Rbmb6 HD:Het,13 weeks,4249098,Female,day_one
+"(4249098, 'Female', '8 weeks', 'Climbing')",Climbing,88.128,Rbmb6 HD:Het,8 weeks,4249098,Female,day_one
+"(4249098, 'Female', '8 weeks', 'distance (mm)')",Distance,11751.15028,Rbmb6 HD:Het,8 weeks,4249098,Female,day_one
+"(4259251, 'Female', '13 weeks', 'Climbing')",Climbing,230.048,Rbmb6 HD:WT,13 weeks,4259251,Female,day_one
+"(4259251, 'Female', '13 weeks', 'distance (mm)')",Distance,8748.212756,Rbmb6 HD:WT,13 weeks,4259251,Female,day_one
+"(4259251, 'Female', '8 weeks', 'Climbing')",Climbing,99.936,Rbmb6 HD:WT,8 weeks,4259251,Female,day_one
+"(4259251, 'Female', '8 weeks', 'distance (mm)')",Distance,10911.68313,Rbmb6 HD:WT,8 weeks,4259251,Female,day_one
+"(4260354, 'Female', '13 weeks', 'Climbing')",Climbing,195.168,Rbmb6 HD:Het,13 weeks,4260354,Female,day_one
+"(4260354, 'Female', '13 weeks', 'distance (mm)')",Distance,16281.46211,Rbmb6 HD:Het,13 weeks,4260354,Female,day_one
+"(4260354, 'Female', '8 weeks', 'Climbing')",Climbing,96.168,Rbmb6 HD:Het,8 weeks,4260354,Female,day_one
+"(4260354, 'Female', '8 weeks', 'distance (mm)')",Distance,9671.403028,Rbmb6 HD:Het,8 weeks,4260354,Female,day_one
+"(4277842, 'Female', '8 weeks', 'Climbing')",Climbing,184.272,Rbmb6 HD:Het,8 weeks,4277842,Female,day_one
+"(4277842, 'Female', '8 weeks', 'distance (mm)')",Distance,8893.593487,Rbmb6 HD:Het,8 weeks,4277842,Female,day_one
+"(4281948, 'Female', '13 weeks', 'Climbing')",Climbing,118.804,Rbmb6 HD:WT,13 weeks,4281948,Female,day_one
+"(4281948, 'Female', '13 weeks', 'distance (mm)')",Distance,11963.24586,Rbmb6 HD:WT,13 weeks,4281948,Female,day_one
+"(4283161, 'Male', '13 weeks', 'Climbing')",Climbing,37.296,Rbmb6 HD:WT,13 weeks,4283161,Male,day_one
+"(4283161, 'Male', '13 weeks', 'distance (mm)')",Distance,7900.319598,Rbmb6 HD:WT,13 weeks,4283161,Male,day_one
+"(4283161, 'Male', '15-16 weeks', 'Climbing')",Climbing,19.728,Rbmb6 HD:WT,15-16 weeks,4283161,Male,day_one
+"(4283161, 'Male', '15-16 weeks', 'distance (mm)')",Distance,6343.639032,Rbmb6 HD:WT,15-16 weeks,4283161,Male,day_one
+"(4283161, 'Male', '8 weeks', 'Climbing')",Climbing,111.08,Rbmb6 HD:WT,8 weeks,4283161,Male,day_one
+"(4283161, 'Male', '8 weeks', 'distance (mm)')",Distance,8231.827405,Rbmb6 HD:WT,8 weeks,4283161,Male,day_one
+"(4283163, 'Male', '13 weeks', 'Climbing')",Climbing,0.81408,Rbmb6 HD:WT,13 weeks,4283163,Male,day_one
+"(4283163, 'Male', '13 weeks', 'distance (mm)')",Distance,6916.027783,Rbmb6 HD:WT,13 weeks,4283163,Male,day_one
+"(4283163, 'Male', '15-16 weeks', 'Climbing')",Climbing,42.72,Rbmb6 HD:WT,15-16 weeks,4283163,Male,day_one
+"(4283163, 'Male', '15-16 weeks', 'distance (mm)')",Distance,6388.841162,Rbmb6 HD:WT,15-16 weeks,4283163,Male,day_one
+"(4283163, 'Male', '8 weeks', 'Climbing')",Climbing,244.752,Rbmb6 HD:WT,8 weeks,4283163,Male,day_one
+"(4283163, 'Male', '8 weeks', 'distance (mm)')",Distance,5010.482617,Rbmb6 HD:WT,8 weeks,4283163,Male,day_one
+"(4283183, 'Female', '13 weeks', 'Climbing')",Climbing,94.56,Rbmb6 HD:Het,13 weeks,4283183,Female,day_one
+"(4283183, 'Female', '13 weeks', 'distance (mm)')",Distance,13302.16569,Rbmb6 HD:Het,13 weeks,4283183,Female,day_one
+"(4283183, 'Female', '15-16 weeks', 'Climbing')",Climbing,196.776,Rbmb6 HD:Het,15-16 weeks,4283183,Female,day_one
+"(4283183, 'Female', '15-16 weeks', 'distance (mm)')",Distance,15451.6902,Rbmb6 HD:Het,15-16 weeks,4283183,Female,day_one
+"(4283183, 'Female', '8 weeks', 'Climbing')",Climbing,106.032,Rbmb6 HD:Het,8 weeks,4283183,Female,day_one
+"(4283183, 'Female', '8 weeks', 'distance (mm)')",Distance,13799.04644,Rbmb6 HD:Het,8 weeks,4283183,Female,day_one
+"(4284198, 'Female', '15-16 weeks', 'Climbing')",Climbing,103.816,Rbmb6 HD:WT,15-16 weeks,4284198,Female,day_one
+"(4284198, 'Female', '15-16 weeks', 'distance (mm)')",Distance,12090.04975,Rbmb6 HD:WT,15-16 weeks,4284198,Female,day_one
+"(4284198, 'Female', '8 weeks', 'Climbing')",Climbing,154.704,Rbmb6 HD:WT,8 weeks,4284198,Female,day_one
+"(4284198, 'Female', '8 weeks', 'distance (mm)')",Distance,3984.061969,Rbmb6 HD:WT,8 weeks,4284198,Female,day_one
+"(4284608, 'Female', '8 weeks', 'Climbing')",Climbing,158.208,Rbmb6 HD:Het,8 weeks,4284608,Female,day_one
+"(4284608, 'Female', '8 weeks', 'distance (mm)')",Distance,14017.37266,Rbmb6 HD:Het,8 weeks,4284608,Female,day_one
+"(4284627, 'Female', '8 weeks', 'Climbing')",Climbing,197.976,Rbmb6 HD:Het,8 weeks,4284627,Female,day_one
+"(4284627, 'Female', '8 weeks', 'distance (mm)')",Distance,15443.42242,Rbmb6 HD:Het,8 weeks,4284627,Female,day_one
+"(4300729, 'Male', '13 weeks', 'Climbing')",Climbing,47.04,Rbmb6 HD:WT,13 weeks,4300729,Male,day_one
+"(4300729, 'Male', '13 weeks', 'distance (mm)')",Distance,4528.415796,Rbmb6 HD:WT,13 weeks,4300729,Male,day_one
+"(4300729, 'Male', '15-16 weeks', 'Climbing')",Climbing,31.44,Rbmb6 HD:WT,15-16 weeks,4300729,Male,day_one
+"(4300729, 'Male', '15-16 weeks', 'distance (mm)')",Distance,8273.701441,Rbmb6 HD:WT,15-16 weeks,4300729,Male,day_one
+"(4300729, 'Male', '8 weeks', 'Climbing')",Climbing,57.312,Rbmb6 HD:WT,8 weeks,4300729,Male,day_one
+"(4300729, 'Male', '8 weeks', 'distance (mm)')",Distance,8554.4422,Rbmb6 HD:WT,8 weeks,4300729,Male,day_one
+"(4300730, 'Male', '13 weeks', 'Climbing')",Climbing,66.528,Rbmb6 HD:Het,13 weeks,4300730,Male,day_one
+"(4300730, 'Male', '13 weeks', 'distance (mm)')",Distance,4623.321252,Rbmb6 HD:Het,13 weeks,4300730,Male,day_one
+"(4300730, 'Male', '15-16 weeks', 'Climbing')",Climbing,8.968,Rbmb6 HD:Het,15-16 weeks,4300730,Male,day_one
+"(4300730, 'Male', '15-16 weeks', 'distance (mm)')",Distance,4608.716391,Rbmb6 HD:Het,15-16 weeks,4300730,Male,day_one
+"(4300730, 'Male', '8 weeks', 'Climbing')",Climbing,5.84,Rbmb6 HD:Het,8 weeks,4300730,Male,day_one
+"(4300730, 'Male', '8 weeks', 'distance (mm)')",Distance,7130.059665,Rbmb6 HD:Het,8 weeks,4300730,Male,day_one
+"(4303286, 'Female', '13 weeks', 'Climbing')",Climbing,122.736,Rbmb6 HD:Het,13 weeks,4303286,Female,day_one
+"(4303286, 'Female', '13 weeks', 'distance (mm)')",Distance,11791.86523,Rbmb6 HD:Het,13 weeks,4303286,Female,day_one
+"(4303286, 'Female', '8 weeks', 'Climbing')",Climbing,148.608,Rbmb6 HD:Het,8 weeks,4303286,Female,day_one
+"(4303286, 'Female', '8 weeks', 'distance (mm)')",Distance,4525.873236,Rbmb6 HD:Het,8 weeks,4303286,Female,day_one
+"(4303287, 'Male', '13 weeks', 'Climbing')",Climbing,31.536,Rbmb6 HD:Het,13 weeks,4303287,Male,day_one
+"(4303287, 'Male', '13 weeks', 'distance (mm)')",Distance,8940.82373,Rbmb6 HD:Het,13 weeks,4303287,Male,day_one
+"(4303287, 'Male', '8 weeks', 'Climbing')",Climbing,35.376,Rbmb6 HD:Het,8 weeks,4303287,Male,day_one
+"(4303287, 'Male', '8 weeks', 'distance (mm)')",Distance,7820.099561,Rbmb6 HD:Het,8 weeks,4303287,Male,day_one
+"(4303288, 'Male', '13 weeks', 'Climbing')",Climbing,29.424,Rbmb6 HD:WT,13 weeks,4303288,Male,day_one
+"(4303288, 'Male', '13 weeks', 'distance (mm)')",Distance,6943.787804,Rbmb6 HD:WT,13 weeks,4303288,Male,day_one
+"(4303288, 'Male', '15-16 weeks', 'Climbing')",Climbing,11.64736,Rbmb6 HD:WT,15-16 weeks,4303288,Male,day_one
+"(4303288, 'Male', '15-16 weeks', 'distance (mm)')",Distance,4592.682544,Rbmb6 HD:WT,15-16 weeks,4303288,Male,day_one
+"(4303291, 'Female', '13 weeks', 'Climbing')",Climbing,143.904,Rbmb6 HD:WT,13 weeks,4303291,Female,day_one
+"(4303291, 'Female', '13 weeks', 'distance (mm)')",Distance,6882.661426,Rbmb6 HD:WT,13 weeks,4303291,Female,day_one
+"(4303291, 'Female', '15-16 weeks', 'Climbing')",Climbing,58.944,Rbmb6 HD:WT,15-16 weeks,4303291,Female,day_one
+"(4303291, 'Female', '15-16 weeks', 'distance (mm)')",Distance,4742.123175,Rbmb6 HD:WT,15-16 weeks,4303291,Female,day_one
+"(4309500, 'Male', '8 weeks', 'Climbing')",Climbing,42.72,Rbmb6 HD:Het,8 weeks,4309500,Male,day_one
+"(4309500, 'Male', '8 weeks', 'distance (mm)')",Distance,8193.147485,Rbmb6 HD:Het,8 weeks,4309500,Male,day_one
+"(4309505, 'Male', '13 weeks', 'Climbing')",Climbing,0,Rbmb6 HD:Het,13 weeks,4309505,Male,day_one
+"(4309505, 'Male', '13 weeks', 'distance (mm)')",Distance,2213.834916,Rbmb6 HD:Het,13 weeks,4309505,Male,day_one
+"(4309505, 'Male', '15-16 weeks', 'Climbing')",Climbing,29.28,Rbmb6 HD:Het,15-16 weeks,4309505,Male,day_one
+"(4309505, 'Male', '15-16 weeks', 'distance (mm)')",Distance,7073.2948,Rbmb6 HD:Het,15-16 weeks,4309505,Male,day_one
+"(4309505, 'Male', '8 weeks', 'Climbing')",Climbing,18.96,Rbmb6 HD:Het,8 weeks,4309505,Male,day_one
+"(4309505, 'Male', '8 weeks', 'distance (mm)')",Distance,7722.061096,Rbmb6 HD:Het,8 weeks,4309505,Male,day_one
+"(4309509, 'Female', '13 weeks', 'Climbing')",Climbing,156.224,Rbmb6 HD:WT,13 weeks,4309509,Female,day_one
+"(4309509, 'Female', '13 weeks', 'distance (mm)')",Distance,6821.466138,Rbmb6 HD:WT,13 weeks,4309509,Female,day_one
+"(4309509, 'Female', '15-16 weeks', 'Climbing')",Climbing,144.192,Rbmb6 HD:WT,15-16 weeks,4309509,Female,day_one
+"(4309509, 'Female', '15-16 weeks', 'distance (mm)')",Distance,8738.216856,Rbmb6 HD:WT,15-16 weeks,4309509,Female,day_one
+"(4309509, 'Female', '8 weeks', 'Climbing')",Climbing,205.104,Rbmb6 HD:WT,8 weeks,4309509,Female,day_one
+"(4309509, 'Female', '8 weeks', 'distance (mm)')",Distance,9897.792102,Rbmb6 HD:WT,8 weeks,4309509,Female,day_one
+"(4310394, 'Female', '13 weeks', 'Climbing')",Climbing,95.104,Rbmb6 HD:Het,13 weeks,4310394,Female,day_one
+"(4310394, 'Female', '13 weeks', 'distance (mm)')",Distance,4941.958569,Rbmb6 HD:Het,13 weeks,4310394,Female,day_one
+"(4310394, 'Female', '15-16 weeks', 'Climbing')",Climbing,27.84,Rbmb6 HD:Het,15-16 weeks,4310394,Female,day_one
+"(4310394, 'Female', '15-16 weeks', 'distance (mm)')",Distance,11478.63403,Rbmb6 HD:Het,15-16 weeks,4310394,Female,day_one
+"(4310394, 'Female', '8 weeks', 'Climbing')",Climbing,44.4,Rbmb6 HD:Het,8 weeks,4310394,Female,day_one
+"(4310394, 'Female', '8 weeks', 'distance (mm)')",Distance,7623.986829,Rbmb6 HD:Het,8 weeks,4310394,Female,day_one
+"(4310395, 'Female', '8 weeks', 'Climbing')",Climbing,103.296,Rbmb6 HD:Het,8 weeks,4310395,Female,day_one
+"(4310395, 'Female', '8 weeks', 'distance (mm)')",Distance,7364.859858,Rbmb6 HD:Het,8 weeks,4310395,Female,day_one
+"(4310396, 'Female', '13 weeks', 'Climbing')",Climbing,23.328,Rbmb6 HD:WT,13 weeks,4310396,Female,day_one
+"(4310396, 'Female', '13 weeks', 'distance (mm)')",Distance,1963.250951,Rbmb6 HD:WT,13 weeks,4310396,Female,day_one
+"(4310396, 'Female', '15-16 weeks', 'Climbing')",Climbing,83.784,Rbmb6 HD:WT,15-16 weeks,4310396,Female,day_one
+"(4310396, 'Female', '15-16 weeks', 'distance (mm)')",Distance,4373.918622,Rbmb6 HD:WT,15-16 weeks,4310396,Female,day_one
+"(4310396, 'Female', '8 weeks', 'Climbing')",Climbing,38.8,Rbmb6 HD:WT,8 weeks,4310396,Female,day_one
+"(4310396, 'Female', '8 weeks', 'distance (mm)')",Distance,3079.180048,Rbmb6 HD:WT,8 weeks,4310396,Female,day_one
+"(4310397, 'Male', '13 weeks', 'Climbing')",Climbing,3.84,Rbmb6 HD:WT,13 weeks,4310397,Male,day_one
+"(4310397, 'Male', '13 weeks', 'distance (mm)')",Distance,3904.837318,Rbmb6 HD:WT,13 weeks,4310397,Male,day_one
+"(4310397, 'Male', '15-16 weeks', 'Climbing')",Climbing,13.392,Rbmb6 HD:WT,15-16 weeks,4310397,Male,day_one
+"(4310397, 'Male', '15-16 weeks', 'distance (mm)')",Distance,2597.212082,Rbmb6 HD:WT,15-16 weeks,4310397,Male,day_one
+"(4310397, 'Male', '8 weeks', 'Climbing')",Climbing,8.688,Rbmb6 HD:WT,8 weeks,4310397,Male,day_one
+"(4310397, 'Male', '8 weeks', 'distance (mm)')",Distance,2115.308288,Rbmb6 HD:WT,8 weeks,4310397,Male,day_one
+"(4310398, 'Male', '13 weeks', 'Climbing')",Climbing,4.128,Rbmb6 HD:Het,13 weeks,4310398,Male,day_one
+"(4310398, 'Male', '13 weeks', 'distance (mm)')",Distance,4617.225667,Rbmb6 HD:Het,13 weeks,4310398,Male,day_one
+"(4310398, 'Male', '15-16 weeks', 'Climbing')",Climbing,5.952,Rbmb6 HD:Het,15-16 weeks,4310398,Male,day_one
+"(4310398, 'Male', '15-16 weeks', 'distance (mm)')",Distance,1956.612816,Rbmb6 HD:Het,15-16 weeks,4310398,Male,day_one
+"(4310398, 'Male', '8 weeks', 'Climbing')",Climbing,64.456,Rbmb6 HD:Het,8 weeks,4310398,Male,day_one
+"(4310398, 'Male', '8 weeks', 'distance (mm)')",Distance,6046.127978,Rbmb6 HD:Het,8 weeks,4310398,Male,day_one
+"(4310410, 'Female', '13 weeks', 'Climbing')",Climbing,87.744,Rbmb6 HD:WT,13 weeks,4310410,Female,day_one
+"(4310410, 'Female', '13 weeks', 'distance (mm)')",Distance,6042.465259,Rbmb6 HD:WT,13 weeks,4310410,Female,day_one
+"(4310410, 'Female', '15-16 weeks', 'Climbing')",Climbing,20.544,Rbmb6 HD:WT,15-16 weeks,4310410,Female,day_one
+"(4310410, 'Female', '15-16 weeks', 'distance (mm)')",Distance,4008.365517,Rbmb6 HD:WT,15-16 weeks,4310410,Female,day_one
+"(4310410, 'Female', '8 weeks', 'Climbing')",Climbing,100.32,Rbmb6 HD:WT,8 weeks,4310410,Female,day_one
+"(4310410, 'Female', '8 weeks', 'distance (mm)')",Distance,3350.143044,Rbmb6 HD:WT,8 weeks,4310410,Female,day_one
+"(4311405, 'Female', '13 weeks', 'Climbing')",Climbing,19.536,Rbmb6 HD:Het,13 weeks,4311405,Female,day_one
+"(4311405, 'Female', '13 weeks', 'distance (mm)')",Distance,4843.401761,Rbmb6 HD:Het,13 weeks,4311405,Female,day_one
+"(4311405, 'Female', '15-16 weeks', 'Climbing')",Climbing,53.856,Rbmb6 HD:Het,15-16 weeks,4311405,Female,day_one
+"(4311405, 'Female', '15-16 weeks', 'distance (mm)')",Distance,6172.632573,Rbmb6 HD:Het,15-16 weeks,4311405,Female,day_one
+"(4311405, 'Female', '8 weeks', 'Climbing')",Climbing,122.528,Rbmb6 HD:Het,8 weeks,4311405,Female,day_one
+"(4311405, 'Female', '8 weeks', 'distance (mm)')",Distance,8883.130812,Rbmb6 HD:Het,8 weeks,4311405,Female,day_one
+"(4311406, 'Male', '15-16 weeks', 'Climbing')",Climbing,0.096,Rbmb6 HD:Het,15-16 weeks,4311406,Male,day_one
+"(4311406, 'Male', '15-16 weeks', 'distance (mm)')",Distance,1420.396271,Rbmb6 HD:Het,15-16 weeks,4311406,Male,day_one
+"(4311406, 'Male', '8 weeks', 'Climbing')",Climbing,32.784,Rbmb6 HD:Het,8 weeks,4311406,Male,day_one
+"(4311406, 'Male', '8 weeks', 'distance (mm)')",Distance,6135.956604,Rbmb6 HD:Het,8 weeks,4311406,Male,day_one
+"(4311407, 'Male', '13 weeks', 'Climbing')",Climbing,18.584,Rbmb6 HD:WT,13 weeks,4311407,Male,day_one
+"(4311407, 'Male', '13 weeks', 'distance (mm)')",Distance,4224.448383,Rbmb6 HD:WT,13 weeks,4311407,Male,day_one
+"(4311407, 'Male', '15-16 weeks', 'Climbing')",Climbing,57.512,Rbmb6 HD:WT,15-16 weeks,4311407,Male,day_one
+"(4311407, 'Male', '15-16 weeks', 'distance (mm)')",Distance,10901.32915,Rbmb6 HD:WT,15-16 weeks,4311407,Male,day_one
+"(4311407, 'Male', '8 weeks', 'Climbing')",Climbing,21.168,Rbmb6 HD:WT,8 weeks,4311407,Male,day_one
+"(4311407, 'Male', '8 weeks', 'distance (mm)')",Distance,10452.36877,Rbmb6 HD:WT,8 weeks,4311407,Male,day_one
+"(4311417, 'Female', '13 weeks', 'Climbing')",Climbing,10.896,Rbmb6 HD:WT,13 weeks,4311417,Female,day_one
+"(4311417, 'Female', '13 weeks', 'distance (mm)')",Distance,761.2212936,Rbmb6 HD:WT,13 weeks,4311417,Female,day_one
+"(4311417, 'Female', '15-16 weeks', 'Climbing')",Climbing,21.168,Rbmb6 HD:WT,15-16 weeks,4311417,Female,day_one
+"(4311417, 'Female', '15-16 weeks', 'distance (mm)')",Distance,3737.037772,Rbmb6 HD:WT,15-16 weeks,4311417,Female,day_one
+"(4311417, 'Female', '8 weeks', 'Climbing')",Climbing,36.528,Rbmb6 HD:WT,8 weeks,4311417,Female,day_one
+"(4311417, 'Female', '8 weeks', 'distance (mm)')",Distance,4593.325448,Rbmb6 HD:WT,8 weeks,4311417,Female,day_one
+"(4314309, 'Male', '8 weeks', 'Climbing')",Climbing,9.648,Rbmb6 HD:Het,8 weeks,4314309,Male,day_one
+"(4314309, 'Male', '8 weeks', 'distance (mm)')",Distance,4609.763965,Rbmb6 HD:Het,8 weeks,4314309,Male,day_one
+"(4314315, 'Female', '8 weeks', 'Climbing')",Climbing,143.592,Rbmb6 HD:WT,8 weeks,4314315,Female,day_one
+"(4314315, 'Female', '8 weeks', 'distance (mm)')",Distance,3580.303409,Rbmb6 HD:WT,8 weeks,4314315,Female,day_one
+"(4314316, 'Female', '8 weeks', 'Climbing')",Climbing,94.896,Rbmb6 HD:Het,8 weeks,4314316,Female,day_one
+"(4314316, 'Female', '8 weeks', 'distance (mm)')",Distance,4658.4203,Rbmb6 HD:Het,8 weeks,4314316,Female,day_one
+"(4366282, 'Male', '13 weeks', 'Climbing')",Climbing,14.976,Rbmb6 HD:WT,13 weeks,4366282,Male,day_one
+"(4366282, 'Male', '13 weeks', 'distance (mm)')",Distance,6936.52789,Rbmb6 HD:WT,13 weeks,4366282,Male,day_one
+"(4366282, 'Male', '15-16 weeks', 'Climbing')",Climbing,25.104,Rbmb6 HD:WT,15-16 weeks,4366282,Male,day_one
+"(4366282, 'Male', '15-16 weeks', 'distance (mm)')",Distance,14654.90249,Rbmb6 HD:WT,15-16 weeks,4366282,Male,day_one
+"(4366282, 'Male', '8 weeks', 'Climbing')",Climbing,14.4,Rbmb6 HD:WT,8 weeks,4366282,Male,day_one
+"(4366282, 'Male', '8 weeks', 'distance (mm)')",Distance,5829.212759,Rbmb6 HD:WT,8 weeks,4366282,Male,day_one
+"(4366286, 'Male', '13 weeks', 'Climbing')",Climbing,30.288,Rbmb6 HD:Het,13 weeks,4366286,Male,day_one
+"(4366286, 'Male', '13 weeks', 'distance (mm)')",Distance,3640.865778,Rbmb6 HD:Het,13 weeks,4366286,Male,day_one
+"(4366286, 'Male', '15-16 weeks', 'Climbing')",Climbing,1.152,Rbmb6 HD:Het,15-16 weeks,4366286,Male,day_one
+"(4366286, 'Male', '15-16 weeks', 'distance (mm)')",Distance,5460.549251,Rbmb6 HD:Het,15-16 weeks,4366286,Male,day_one
+"(4366286, 'Male', '8 weeks', 'Climbing')",Climbing,31.808,Rbmb6 HD:Het,8 weeks,4366286,Male,day_one
+"(4366286, 'Male', '8 weeks', 'distance (mm)')",Distance,3630.278207,Rbmb6 HD:Het,8 weeks,4366286,Male,day_one
+"(4192216, 'Male', '13 weeks', 'Climbing')",Climbing,230.432,Rbmb6 HD:WT,13 weeks,4192216,Male,day_two
+"(4192216, 'Male', '13 weeks', 'distance (mm)')",Distance,8890.465271,Rbmb6 HD:WT,13 weeks,4192216,Male,day_two
+"(4192216, 'Male', '15-16 weeks', 'Climbing')",Climbing,98.64,Rbmb6 HD:WT,15-16 weeks,4192216,Male,day_two
+"(4192216, 'Male', '15-16 weeks', 'distance (mm)')",Distance,10414.20234,Rbmb6 HD:WT,15-16 weeks,4192216,Male,day_two
+"(4192216, 'Male', '8 weeks', 'Climbing')",Climbing,42.528,Rbmb6 HD:WT,8 weeks,4192216,Male,day_two
+"(4192216, 'Male', '8 weeks', 'distance (mm)')",Distance,8842.4356,Rbmb6 HD:WT,8 weeks,4192216,Male,day_two
+"(4200742, 'Male', '13 weeks', 'Climbing')",Climbing,34.888,Rbmb6 HD:Het,13 weeks,4200742,Male,day_two
+"(4200742, 'Male', '13 weeks', 'distance (mm)')",Distance,12411.94814,Rbmb6 HD:Het,13 weeks,4200742,Male,day_two
+"(4200742, 'Male', '8 weeks', 'Climbing')",Climbing,177.672,Rbmb6 HD:Het,8 weeks,4200742,Male,day_two
+"(4200742, 'Male', '8 weeks', 'distance (mm)')",Distance,11959.35427,Rbmb6 HD:Het,8 weeks,4200742,Male,day_two
+"(4247842, 'Female', '13 weeks', 'Climbing')",Climbing,129.6,Rbmb6 HD:Het,13 weeks,4247842,Female,day_two
+"(4247842, 'Female', '13 weeks', 'distance (mm)')",Distance,5885.734961,Rbmb6 HD:Het,13 weeks,4247842,Female,day_two
+"(4249098, 'Female', '13 weeks', 'Climbing')",Climbing,15.36,Rbmb6 HD:Het,13 weeks,4249098,Female,day_two
+"(4249098, 'Female', '13 weeks', 'distance (mm)')",Distance,7812.909143,Rbmb6 HD:Het,13 weeks,4249098,Female,day_two
+"(4249098, 'Female', '8 weeks', 'Climbing')",Climbing,84.184,Rbmb6 HD:Het,8 weeks,4249098,Female,day_two
+"(4249098, 'Female', '8 weeks', 'distance (mm)')",Distance,12913.8066,Rbmb6 HD:Het,8 weeks,4249098,Female,day_two
+"(4259251, 'Female', '13 weeks', 'Climbing')",Climbing,202.528,Rbmb6 HD:WT,13 weeks,4259251,Female,day_two
+"(4259251, 'Female', '13 weeks', 'distance (mm)')",Distance,9389.515943,Rbmb6 HD:WT,13 weeks,4259251,Female,day_two
+"(4259251, 'Female', '8 weeks', 'Climbing')",Climbing,114.816,Rbmb6 HD:WT,8 weeks,4259251,Female,day_two
+"(4259251, 'Female', '8 weeks', 'distance (mm)')",Distance,10698.19845,Rbmb6 HD:WT,8 weeks,4259251,Female,day_two
+"(4260354, 'Female', '13 weeks', 'Climbing')",Climbing,161.944,Rbmb6 HD:Het,13 weeks,4260354,Female,day_two
+"(4260354, 'Female', '13 weeks', 'distance (mm)')",Distance,15321.51337,Rbmb6 HD:Het,13 weeks,4260354,Female,day_two
+"(4260354, 'Female', '8 weeks', 'Climbing')",Climbing,108.312,Rbmb6 HD:Het,8 weeks,4260354,Female,day_two
+"(4260354, 'Female', '8 weeks', 'distance (mm)')",Distance,8983.164624,Rbmb6 HD:Het,8 weeks,4260354,Female,day_two
+"(4277842, 'Female', '8 weeks', 'Climbing')",Climbing,206.544,Rbmb6 HD:Het,8 weeks,4277842,Female,day_two
+"(4277842, 'Female', '8 weeks', 'distance (mm)')",Distance,8445.252515,Rbmb6 HD:Het,8 weeks,4277842,Female,day_two
+"(4281948, 'Female', '13 weeks', 'Climbing')",Climbing,53.732,Rbmb6 HD:WT,13 weeks,4281948,Female,day_two
+"(4281948, 'Female', '13 weeks', 'distance (mm)')",Distance,6914.762851,Rbmb6 HD:WT,13 weeks,4281948,Female,day_two
+"(4283161, 'Male', '13 weeks', 'Climbing')",Climbing,30.72,Rbmb6 HD:WT,13 weeks,4283161,Male,day_two
+"(4283161, 'Male', '13 weeks', 'distance (mm)')",Distance,7509.784442,Rbmb6 HD:WT,13 weeks,4283161,Male,day_two
+"(4283161, 'Male', '15-16 weeks', 'Climbing')",Climbing,10.8,Rbmb6 HD:WT,15-16 weeks,4283161,Male,day_two
+"(4283161, 'Male', '15-16 weeks', 'distance (mm)')",Distance,5642.349442,Rbmb6 HD:WT,15-16 weeks,4283161,Male,day_two
+"(4283161, 'Male', '8 weeks', 'Climbing')",Climbing,114.48,Rbmb6 HD:WT,8 weeks,4283161,Male,day_two
+"(4283161, 'Male', '8 weeks', 'distance (mm)')",Distance,7335.317185,Rbmb6 HD:WT,8 weeks,4283161,Male,day_two
+"(4283163, 'Male', '13 weeks', 'Climbing')",Climbing,2.70208,Rbmb6 HD:WT,13 weeks,4283163,Male,day_two
+"(4283163, 'Male', '13 weeks', 'distance (mm)')",Distance,4301.912124,Rbmb6 HD:WT,13 weeks,4283163,Male,day_two
+"(4283163, 'Male', '15-16 weeks', 'Climbing')",Climbing,43.632,Rbmb6 HD:WT,15-16 weeks,4283163,Male,day_two
+"(4283163, 'Male', '15-16 weeks', 'distance (mm)')",Distance,7242.610962,Rbmb6 HD:WT,15-16 weeks,4283163,Male,day_two
+"(4283163, 'Male', '8 weeks', 'Climbing')",Climbing,161.184,Rbmb6 HD:WT,8 weeks,4283163,Male,day_two
+"(4283163, 'Male', '8 weeks', 'distance (mm)')",Distance,4273.028687,Rbmb6 HD:WT,8 weeks,4283163,Male,day_two
+"(4283183, 'Female', '13 weeks', 'Climbing')",Climbing,44.448,Rbmb6 HD:Het,13 weeks,4283183,Female,day_two
+"(4283183, 'Female', '13 weeks', 'distance (mm)')",Distance,9115.398328,Rbmb6 HD:Het,13 weeks,4283183,Female,day_two
+"(4283183, 'Female', '15-16 weeks', 'Climbing')",Climbing,81.6,Rbmb6 HD:Het,15-16 weeks,4283183,Female,day_two
+"(4283183, 'Female', '15-16 weeks', 'distance (mm)')",Distance,6219.687842,Rbmb6 HD:Het,15-16 weeks,4283183,Female,day_two
+"(4283183, 'Female', '8 weeks', 'Climbing')",Climbing,81.024,Rbmb6 HD:Het,8 weeks,4283183,Female,day_two
+"(4283183, 'Female', '8 weeks', 'distance (mm)')",Distance,10960.60371,Rbmb6 HD:Het,8 weeks,4283183,Female,day_two
+"(4284198, 'Female', '15-16 weeks', 'Climbing')",Climbing,100.992,Rbmb6 HD:WT,15-16 weeks,4284198,Female,day_two
+"(4284198, 'Female', '15-16 weeks', 'distance (mm)')",Distance,17617.0126,Rbmb6 HD:WT,15-16 weeks,4284198,Female,day_two
+"(4284198, 'Female', '8 weeks', 'Climbing')",Climbing,267.312,Rbmb6 HD:WT,8 weeks,4284198,Female,day_two
+"(4284198, 'Female', '8 weeks', 'distance (mm)')",Distance,7458.110364,Rbmb6 HD:WT,8 weeks,4284198,Female,day_two
+"(4284608, 'Female', '8 weeks', 'Climbing')",Climbing,82.272,Rbmb6 HD:Het,8 weeks,4284608,Female,day_two
+"(4284608, 'Female', '8 weeks', 'distance (mm)')",Distance,11103.25796,Rbmb6 HD:Het,8 weeks,4284608,Female,day_two
+"(4284627, 'Female', '8 weeks', 'Climbing')",Climbing,231.504,Rbmb6 HD:Het,8 weeks,4284627,Female,day_two
+"(4284627, 'Female', '8 weeks', 'distance (mm)')",Distance,12413.71405,Rbmb6 HD:Het,8 weeks,4284627,Female,day_two
+"(4300729, 'Male', '13 weeks', 'Climbing')",Climbing,31.824,Rbmb6 HD:WT,13 weeks,4300729,Male,day_two
+"(4300729, 'Male', '13 weeks', 'distance (mm)')",Distance,7896.352246,Rbmb6 HD:WT,13 weeks,4300729,Male,day_two
+"(4300729, 'Male', '15-16 weeks', 'Climbing')",Climbing,18.768,Rbmb6 HD:WT,15-16 weeks,4300729,Male,day_two
+"(4300729, 'Male', '15-16 weeks', 'distance (mm)')",Distance,4180.707263,Rbmb6 HD:WT,15-16 weeks,4300729,Male,day_two
+"(4300729, 'Male', '8 weeks', 'Climbing')",Climbing,47.856,Rbmb6 HD:WT,8 weeks,4300729,Male,day_two
+"(4300729, 'Male', '8 weeks', 'distance (mm)')",Distance,8183.599018,Rbmb6 HD:WT,8 weeks,4300729,Male,day_two
+"(4300730, 'Male', '13 weeks', 'Climbing')",Climbing,88.992,Rbmb6 HD:Het,13 weeks,4300730,Male,day_two
+"(4300730, 'Male', '13 weeks', 'distance (mm)')",Distance,6951.613745,Rbmb6 HD:Het,13 weeks,4300730,Male,day_two
+"(4300730, 'Male', '15-16 weeks', 'Climbing')",Climbing,12.096,Rbmb6 HD:Het,15-16 weeks,4300730,Male,day_two
+"(4300730, 'Male', '15-16 weeks', 'distance (mm)')",Distance,5824.921724,Rbmb6 HD:Het,15-16 weeks,4300730,Male,day_two
+"(4300730, 'Male', '8 weeks', 'Climbing')",Climbing,5.384,Rbmb6 HD:Het,8 weeks,4300730,Male,day_two
+"(4300730, 'Male', '8 weeks', 'distance (mm)')",Distance,6458.957624,Rbmb6 HD:Het,8 weeks,4300730,Male,day_two
+"(4303286, 'Female', '13 weeks', 'Climbing')",Climbing,97.296,Rbmb6 HD:Het,13 weeks,4303286,Female,day_two
+"(4303286, 'Female', '13 weeks', 'distance (mm)')",Distance,9083.459839,Rbmb6 HD:Het,13 weeks,4303286,Female,day_two
+"(4303286, 'Female', '8 weeks', 'Climbing')",Climbing,89.504,Rbmb6 HD:Het,8 weeks,4303286,Female,day_two
+"(4303286, 'Female', '8 weeks', 'distance (mm)')",Distance,4466.744754,Rbmb6 HD:Het,8 weeks,4303286,Female,day_two
+"(4303287, 'Male', '13 weeks', 'Climbing')",Climbing,37.296,Rbmb6 HD:Het,13 weeks,4303287,Male,day_two
+"(4303287, 'Male', '13 weeks', 'distance (mm)')",Distance,9822.298633,Rbmb6 HD:Het,13 weeks,4303287,Male,day_two
+"(4303287, 'Male', '8 weeks', 'Climbing')",Climbing,16.176,Rbmb6 HD:Het,8 weeks,4303287,Male,day_two
+"(4303287, 'Male', '8 weeks', 'distance (mm)')",Distance,4860.023529,Rbmb6 HD:Het,8 weeks,4303287,Male,day_two
+"(4303288, 'Male', '13 weeks', 'Climbing')",Climbing,26.96,Rbmb6 HD:WT,13 weeks,4303288,Male,day_two
+"(4303288, 'Male', '13 weeks', 'distance (mm)')",Distance,5495.730518,Rbmb6 HD:WT,13 weeks,4303288,Male,day_two
+"(4303288, 'Male', '15-16 weeks', 'Climbing')",Climbing,4.16928,Rbmb6 HD:WT,15-16 weeks,4303288,Male,day_two
+"(4303288, 'Male', '15-16 weeks', 'distance (mm)')",Distance,3471.753833,Rbmb6 HD:WT,15-16 weeks,4303288,Male,day_two
+"(4303291, 'Female', '13 weeks', 'Climbing')",Climbing,63.68,Rbmb6 HD:WT,13 weeks,4303291,Female,day_two
+"(4303291, 'Female', '13 weeks', 'distance (mm)')",Distance,4047.216324,Rbmb6 HD:WT,13 weeks,4303291,Female,day_two
+"(4303291, 'Female', '15-16 weeks', 'Climbing')",Climbing,80.64,Rbmb6 HD:WT,15-16 weeks,4303291,Female,day_two
+"(4303291, 'Female', '15-16 weeks', 'distance (mm)')",Distance,7021.299939,Rbmb6 HD:WT,15-16 weeks,4303291,Female,day_two
+"(4309500, 'Male', '8 weeks', 'Climbing')",Climbing,43.824,Rbmb6 HD:Het,8 weeks,4309500,Male,day_two
+"(4309500, 'Male', '8 weeks', 'distance (mm)')",Distance,8766.261121,Rbmb6 HD:Het,8 weeks,4309500,Male,day_two
+"(4309505, 'Male', '13 weeks', 'Climbing')",Climbing,0.144,Rbmb6 HD:Het,13 weeks,4309505,Male,day_two
+"(4309505, 'Male', '13 weeks', 'distance (mm)')",Distance,1358.975739,Rbmb6 HD:Het,13 weeks,4309505,Male,day_two
+"(4309505, 'Male', '15-16 weeks', 'Climbing')",Climbing,4.704,Rbmb6 HD:Het,15-16 weeks,4309505,Male,day_two
+"(4309505, 'Male', '15-16 weeks', 'distance (mm)')",Distance,2908.897681,Rbmb6 HD:Het,15-16 weeks,4309505,Male,day_two
+"(4309505, 'Male', '8 weeks', 'Climbing')",Climbing,16.032,Rbmb6 HD:Het,8 weeks,4309505,Male,day_two
+"(4309505, 'Male', '8 weeks', 'distance (mm)')",Distance,7337.765631,Rbmb6 HD:Het,8 weeks,4309505,Male,day_two
+"(4309509, 'Female', '13 weeks', 'Climbing')",Climbing,33.68,Rbmb6 HD:WT,13 weeks,4309509,Female,day_two
+"(4309509, 'Female', '13 weeks', 'distance (mm)')",Distance,3092.169702,Rbmb6 HD:WT,13 weeks,4309509,Female,day_two
+"(4309509, 'Female', '15-16 weeks', 'Climbing')",Climbing,95.52,Rbmb6 HD:WT,15-16 weeks,4309509,Female,day_two
+"(4309509, 'Female', '15-16 weeks', 'distance (mm)')",Distance,5083.042663,Rbmb6 HD:WT,15-16 weeks,4309509,Female,day_two
+"(4309509, 'Female', '8 weeks', 'Climbing')",Climbing,0,Rbmb6 HD:WT,8 weeks,4309509,Female,day_two
+"(4309509, 'Female', '8 weeks', 'distance (mm)')",Distance,1775.912719,Rbmb6 HD:WT,8 weeks,4309509,Female,day_two
+"(4310394, 'Female', '13 weeks', 'Climbing')",Climbing,30.192,Rbmb6 HD:Het,13 weeks,4310394,Female,day_two
+"(4310394, 'Female', '13 weeks', 'distance (mm)')",Distance,2991.899243,Rbmb6 HD:Het,13 weeks,4310394,Female,day_two
+"(4310394, 'Female', '15-16 weeks', 'Climbing')",Climbing,2.544,Rbmb6 HD:Het,15-16 weeks,4310394,Female,day_two
+"(4310394, 'Female', '15-16 weeks', 'distance (mm)')",Distance,2073.323315,Rbmb6 HD:Het,15-16 weeks,4310394,Female,day_two
+"(4310394, 'Female', '8 weeks', 'Climbing')",Climbing,38.832,Rbmb6 HD:Het,8 weeks,4310394,Female,day_two
+"(4310394, 'Female', '8 weeks', 'distance (mm)')",Distance,4342.023371,Rbmb6 HD:Het,8 weeks,4310394,Female,day_two
+"(4310395, 'Female', '8 weeks', 'Climbing')",Climbing,97.816,Rbmb6 HD:Het,8 weeks,4310395,Female,day_two
+"(4310395, 'Female', '8 weeks', 'distance (mm)')",Distance,8755.23927,Rbmb6 HD:Het,8 weeks,4310395,Female,day_two
+"(4310396, 'Female', '13 weeks', 'Climbing')",Climbing,114.288,Rbmb6 HD:WT,13 weeks,4310396,Female,day_two
+"(4310396, 'Female', '13 weeks', 'distance (mm)')",Distance,6213.821411,Rbmb6 HD:WT,13 weeks,4310396,Female,day_two
+"(4310396, 'Female', '15-16 weeks', 'Climbing')",Climbing,0,Rbmb6 HD:WT,15-16 weeks,4310396,Female,day_two
+"(4310396, 'Female', '15-16 weeks', 'distance (mm)')",Distance,506.5696098,Rbmb6 HD:WT,15-16 weeks,4310396,Female,day_two
+"(4310396, 'Female', '8 weeks', 'Climbing')",Climbing,52.896,Rbmb6 HD:WT,8 weeks,4310396,Female,day_two
+"(4310396, 'Female', '8 weeks', 'distance (mm)')",Distance,3240.87431,Rbmb6 HD:WT,8 weeks,4310396,Female,day_two
+"(4310397, 'Male', '13 weeks', 'Climbing')",Climbing,17.712,Rbmb6 HD:WT,13 weeks,4310397,Male,day_two
+"(4310397, 'Male', '13 weeks', 'distance (mm)')",Distance,8700.517779,Rbmb6 HD:WT,13 weeks,4310397,Male,day_two
+"(4310397, 'Male', '15-16 weeks', 'Climbing')",Climbing,9.792,Rbmb6 HD:WT,15-16 weeks,4310397,Male,day_two
+"(4310397, 'Male', '15-16 weeks', 'distance (mm)')",Distance,4654.767139,Rbmb6 HD:WT,15-16 weeks,4310397,Male,day_two
+"(4310397, 'Male', '8 weeks', 'Climbing')",Climbing,17.616,Rbmb6 HD:WT,8 weeks,4310397,Male,day_two
+"(4310397, 'Male', '8 weeks', 'distance (mm)')",Distance,6633.504242,Rbmb6 HD:WT,8 weeks,4310397,Male,day_two
+"(4310398, 'Male', '13 weeks', 'Climbing')",Climbing,9.648,Rbmb6 HD:Het,13 weeks,4310398,Male,day_two
+"(4310398, 'Male', '13 weeks', 'distance (mm)')",Distance,4649.076321,Rbmb6 HD:Het,13 weeks,4310398,Male,day_two
+"(4310398, 'Male', '15-16 weeks', 'Climbing')",Climbing,8.112,Rbmb6 HD:Het,15-16 weeks,4310398,Male,day_two
+"(4310398, 'Male', '15-16 weeks', 'distance (mm)')",Distance,2633.033233,Rbmb6 HD:Het,15-16 weeks,4310398,Male,day_two
+"(4310398, 'Male', '8 weeks', 'Climbing')",Climbing,62.496,Rbmb6 HD:Het,8 weeks,4310398,Male,day_two
+"(4310398, 'Male', '8 weeks', 'distance (mm)')",Distance,6050.173425,Rbmb6 HD:Het,8 weeks,4310398,Male,day_two
+"(4310410, 'Female', '13 weeks', 'Climbing')",Climbing,72.096,Rbmb6 HD:WT,13 weeks,4310410,Female,day_two
+"(4310410, 'Female', '13 weeks', 'distance (mm)')",Distance,4164.923552,Rbmb6 HD:WT,13 weeks,4310410,Female,day_two
+"(4310410, 'Female', '15-16 weeks', 'Climbing')",Climbing,15.88,Rbmb6 HD:WT,15-16 weeks,4310410,Female,day_two
+"(4310410, 'Female', '15-16 weeks', 'distance (mm)')",Distance,3628.044542,Rbmb6 HD:WT,15-16 weeks,4310410,Female,day_two
+"(4310410, 'Female', '8 weeks', 'Climbing')",Climbing,134.688,Rbmb6 HD:WT,8 weeks,4310410,Female,day_two
+"(4310410, 'Female', '8 weeks', 'distance (mm)')",Distance,6961.836075,Rbmb6 HD:WT,8 weeks,4310410,Female,day_two
+"(4311405, 'Female', '13 weeks', 'Climbing')",Climbing,9.36,Rbmb6 HD:Het,13 weeks,4311405,Female,day_two
+"(4311405, 'Female', '13 weeks', 'distance (mm)')",Distance,3323.480658,Rbmb6 HD:Het,13 weeks,4311405,Female,day_two
+"(4311405, 'Female', '15-16 weeks', 'Climbing')",Climbing,21.696,Rbmb6 HD:Het,15-16 weeks,4311405,Female,day_two
+"(4311405, 'Female', '15-16 weeks', 'distance (mm)')",Distance,5677.593751,Rbmb6 HD:Het,15-16 weeks,4311405,Female,day_two
+"(4311405, 'Female', '8 weeks', 'Climbing')",Climbing,145.904,Rbmb6 HD:Het,8 weeks,4311405,Female,day_two
+"(4311405, 'Female', '8 weeks', 'distance (mm)')",Distance,8907.357718,Rbmb6 HD:Het,8 weeks,4311405,Female,day_two
+"(4311406, 'Male', '15-16 weeks', 'Climbing')",Climbing,15.168,Rbmb6 HD:Het,15-16 weeks,4311406,Male,day_two
+"(4311406, 'Male', '15-16 weeks', 'distance (mm)')",Distance,4739.833984,Rbmb6 HD:Het,15-16 weeks,4311406,Male,day_two
+"(4311406, 'Male', '8 weeks', 'Climbing')",Climbing,25.728,Rbmb6 HD:Het,8 weeks,4311406,Male,day_two
+"(4311406, 'Male', '8 weeks', 'distance (mm)')",Distance,5377.253551,Rbmb6 HD:Het,8 weeks,4311406,Male,day_two
+"(4311407, 'Male', '13 weeks', 'Climbing')",Climbing,37.104,Rbmb6 HD:WT,13 weeks,4311407,Male,day_two
+"(4311407, 'Male', '13 weeks', 'distance (mm)')",Distance,7309.775983,Rbmb6 HD:WT,13 weeks,4311407,Male,day_two
+"(4311407, 'Male', '15-16 weeks', 'Climbing')",Climbing,14.784,Rbmb6 HD:WT,15-16 weeks,4311407,Male,day_two
+"(4311407, 'Male', '15-16 weeks', 'distance (mm)')",Distance,6564.839431,Rbmb6 HD:WT,15-16 weeks,4311407,Male,day_two
+"(4311407, 'Male', '8 weeks', 'Climbing')",Climbing,21.792,Rbmb6 HD:WT,8 weeks,4311407,Male,day_two
+"(4311407, 'Male', '8 weeks', 'distance (mm)')",Distance,6153.011649,Rbmb6 HD:WT,8 weeks,4311407,Male,day_two
+"(4311417, 'Female', '13 weeks', 'Climbing')",Climbing,67.056,Rbmb6 HD:WT,13 weeks,4311417,Female,day_two
+"(4311417, 'Female', '13 weeks', 'distance (mm)')",Distance,1567.311084,Rbmb6 HD:WT,13 weeks,4311417,Female,day_two
+"(4311417, 'Female', '15-16 weeks', 'Climbing')",Climbing,10.992,Rbmb6 HD:WT,15-16 weeks,4311417,Female,day_two
+"(4311417, 'Female', '15-16 weeks', 'distance (mm)')",Distance,2268.112283,Rbmb6 HD:WT,15-16 weeks,4311417,Female,day_two
+"(4311417, 'Female', '8 weeks', 'Climbing')",Climbing,51.304,Rbmb6 HD:WT,8 weeks,4311417,Female,day_two
+"(4311417, 'Female', '8 weeks', 'distance (mm)')",Distance,5678.104153,Rbmb6 HD:WT,8 weeks,4311417,Female,day_two
+"(4314309, 'Male', '8 weeks', 'Climbing')",Climbing,1.68,Rbmb6 HD:Het,8 weeks,4314309,Male,day_two
+"(4314309, 'Male', '8 weeks', 'distance (mm)')",Distance,2787.170589,Rbmb6 HD:Het,8 weeks,4314309,Male,day_two
+"(4314315, 'Female', '8 weeks', 'Climbing')",Climbing,155.304,Rbmb6 HD:WT,8 weeks,4314315,Female,day_two
+"(4314315, 'Female', '8 weeks', 'distance (mm)')",Distance,5220.775086,Rbmb6 HD:WT,8 weeks,4314315,Female,day_two
+"(4314316, 'Female', '8 weeks', 'Climbing')",Climbing,52.608,Rbmb6 HD:Het,8 weeks,4314316,Female,day_two
+"(4314316, 'Female', '8 weeks', 'distance (mm)')",Distance,4993.028967,Rbmb6 HD:Het,8 weeks,4314316,Female,day_two
+"(4366282, 'Male', '13 weeks', 'Climbing')",Climbing,2.112,Rbmb6 HD:WT,13 weeks,4366282,Male,day_two
+"(4366282, 'Male', '13 weeks', 'distance (mm)')",Distance,2435.289755,Rbmb6 HD:WT,13 weeks,4366282,Male,day_two
+"(4366282, 'Male', '15-16 weeks', 'Climbing')",Climbing,17.76,Rbmb6 HD:WT,15-16 weeks,4366282,Male,day_two
+"(4366282, 'Male', '15-16 weeks', 'distance (mm)')",Distance,8990.044769,Rbmb6 HD:WT,15-16 weeks,4366282,Male,day_two
+"(4366282, 'Male', '8 weeks', 'Climbing')",Climbing,12.528,Rbmb6 HD:WT,8 weeks,4366282,Male,day_two
+"(4366282, 'Male', '8 weeks', 'distance (mm)')",Distance,6341.519574,Rbmb6 HD:WT,8 weeks,4366282,Male,day_two
+"(4366286, 'Male', '13 weeks', 'Climbing')",Climbing,15.344,Rbmb6 HD:Het,13 weeks,4366286,Male,day_two
+"(4366286, 'Male', '13 weeks', 'distance (mm)')",Distance,2372.520463,Rbmb6 HD:Het,13 weeks,4366286,Male,day_two
+"(4366286, 'Male', '15-16 weeks', 'Climbing')",Climbing,1.344,Rbmb6 HD:Het,15-16 weeks,4366286,Male,day_two
+"(4366286, 'Male', '15-16 weeks', 'distance (mm)')",Distance,7818.407002,Rbmb6 HD:Het,15-16 weeks,4366286,Male,day_two
+"(4366286, 'Male', '8 weeks', 'Climbing')",Climbing,42.576,Rbmb6 HD:Het,8 weeks,4366286,Male,day_two
+"(4366286, 'Male', '8 weeks', 'distance (mm)')",Distance,3165.519608,Rbmb6 HD:Het,8 weeks,4366286,Male,day_two
+"(4192216, 'Male', '13 weeks', 'Climbing')",Climbing,143.056,Rbmb6 HD:WT,13 weeks,4192216,Male,day_three
+"(4192216, 'Male', '13 weeks', 'distance (mm)')",Distance,8222.832641,Rbmb6 HD:WT,13 weeks,4192216,Male,day_three
+"(4192216, 'Male', '15-16 weeks', 'Climbing')",Climbing,88.992,Rbmb6 HD:WT,15-16 weeks,4192216,Male,day_three
+"(4192216, 'Male', '15-16 weeks', 'distance (mm)')",Distance,11869.39434,Rbmb6 HD:WT,15-16 weeks,4192216,Male,day_three
+"(4192216, 'Male', '8 weeks', 'Climbing')",Climbing,79.824,Rbmb6 HD:WT,8 weeks,4192216,Male,day_three
+"(4192216, 'Male', '8 weeks', 'distance (mm)')",Distance,8735.1308,Rbmb6 HD:WT,8 weeks,4192216,Male,day_three
+"(4200742, 'Male', '13 weeks', 'Climbing')",Climbing,33.32,Rbmb6 HD:Het,13 weeks,4200742,Male,day_three
+"(4200742, 'Male', '13 weeks', 'distance (mm)')",Distance,11921.01994,Rbmb6 HD:Het,13 weeks,4200742,Male,day_three
+"(4200742, 'Male', '8 weeks', 'Climbing')",Climbing,151.392,Rbmb6 HD:Het,8 weeks,4200742,Male,day_three
+"(4200742, 'Male', '8 weeks', 'distance (mm)')",Distance,13864.51758,Rbmb6 HD:Het,8 weeks,4200742,Male,day_three
+"(4247842, 'Female', '13 weeks', 'Climbing')",Climbing,159.312,Rbmb6 HD:Het,13 weeks,4247842,Female,day_three
+"(4247842, 'Female', '13 weeks', 'distance (mm)')",Distance,7426.077698,Rbmb6 HD:Het,13 weeks,4247842,Female,day_three
+"(4249098, 'Female', '13 weeks', 'Climbing')",Climbing,36.384,Rbmb6 HD:Het,13 weeks,4249098,Female,day_three
+"(4249098, 'Female', '13 weeks', 'distance (mm)')",Distance,12785.53909,Rbmb6 HD:Het,13 weeks,4249098,Female,day_three
+"(4249098, 'Female', '8 weeks', 'Climbing')",Climbing,71.952,Rbmb6 HD:Het,8 weeks,4249098,Female,day_three
+"(4249098, 'Female', '8 weeks', 'distance (mm)')",Distance,12789.07852,Rbmb6 HD:Het,8 weeks,4249098,Female,day_three
+"(4259251, 'Female', '13 weeks', 'Climbing')",Climbing,161.088,Rbmb6 HD:WT,13 weeks,4259251,Female,day_three
+"(4259251, 'Female', '13 weeks', 'distance (mm)')",Distance,7237.692017,Rbmb6 HD:WT,13 weeks,4259251,Female,day_three
+"(4259251, 'Female', '8 weeks', 'Climbing')",Climbing,95.336,Rbmb6 HD:WT,8 weeks,4259251,Female,day_three
+"(4259251, 'Female', '8 weeks', 'distance (mm)')",Distance,10383.75278,Rbmb6 HD:WT,8 weeks,4259251,Female,day_three
+"(4260354, 'Female', '13 weeks', 'Climbing')",Climbing,118.984,Rbmb6 HD:Het,13 weeks,4260354,Female,day_three
+"(4260354, 'Female', '13 weeks', 'distance (mm)')",Distance,12544.07969,Rbmb6 HD:Het,13 weeks,4260354,Female,day_three
+"(4260354, 'Female', '8 weeks', 'Climbing')",Climbing,80.832,Rbmb6 HD:Het,8 weeks,4260354,Female,day_three
+"(4260354, 'Female', '8 weeks', 'distance (mm)')",Distance,11330.54634,Rbmb6 HD:Het,8 weeks,4260354,Female,day_three
+"(4277842, 'Female', '8 weeks', 'Climbing')",Climbing,199.776,Rbmb6 HD:Het,8 weeks,4277842,Female,day_three
+"(4277842, 'Female', '8 weeks', 'distance (mm)')",Distance,10266.92244,Rbmb6 HD:Het,8 weeks,4277842,Female,day_three
+"(4281948, 'Female', '13 weeks', 'Climbing')",Climbing,92.284,Rbmb6 HD:WT,13 weeks,4281948,Female,day_three
+"(4281948, 'Female', '13 weeks', 'distance (mm)')",Distance,6995.266812,Rbmb6 HD:WT,13 weeks,4281948,Female,day_three
+"(4283161, 'Male', '13 weeks', 'Climbing')",Climbing,41.568,Rbmb6 HD:WT,13 weeks,4283161,Male,day_three
+"(4283161, 'Male', '13 weeks', 'distance (mm)')",Distance,9892.233814,Rbmb6 HD:WT,13 weeks,4283161,Male,day_three
+"(4283161, 'Male', '15-16 weeks', 'Climbing')",Climbing,23.376,Rbmb6 HD:WT,15-16 weeks,4283161,Male,day_three
+"(4283161, 'Male', '15-16 weeks', 'distance (mm)')",Distance,10257.24641,Rbmb6 HD:WT,15-16 weeks,4283161,Male,day_three
+"(4283161, 'Male', '8 weeks', 'Climbing')",Climbing,89.368,Rbmb6 HD:WT,8 weeks,4283161,Male,day_three
+"(4283161, 'Male', '8 weeks', 'distance (mm)')",Distance,9347.573645,Rbmb6 HD:WT,8 weeks,4283161,Male,day_three
+"(4283163, 'Male', '13 weeks', 'Climbing')",Climbing,0.59136,Rbmb6 HD:WT,13 weeks,4283163,Male,day_three
+"(4283163, 'Male', '13 weeks', 'distance (mm)')",Distance,5690.815967,Rbmb6 HD:WT,13 weeks,4283163,Male,day_three
+"(4283163, 'Male', '15-16 weeks', 'Climbing')",Climbing,23.04,Rbmb6 HD:WT,15-16 weeks,4283163,Male,day_three
+"(4283163, 'Male', '15-16 weeks', 'distance (mm)')",Distance,2941.905566,Rbmb6 HD:WT,15-16 weeks,4283163,Male,day_three
+"(4283163, 'Male', '8 weeks', 'Climbing')",Climbing,218.784,Rbmb6 HD:WT,8 weeks,4283163,Male,day_three
+"(4283163, 'Male', '8 weeks', 'distance (mm)')",Distance,4064.286731,Rbmb6 HD:WT,8 weeks,4283163,Male,day_three
+"(4283183, 'Female', '13 weeks', 'Climbing')",Climbing,74.112,Rbmb6 HD:Het,13 weeks,4283183,Female,day_three
+"(4283183, 'Female', '13 weeks', 'distance (mm)')",Distance,14332.73603,Rbmb6 HD:Het,13 weeks,4283183,Female,day_three
+"(4283183, 'Female', '15-16 weeks', 'Climbing')",Climbing,15,Rbmb6 HD:Het,15-16 weeks,4283183,Female,day_three
+"(4283183, 'Female', '15-16 weeks', 'distance (mm)')",Distance,1199.61701,Rbmb6 HD:Het,15-16 weeks,4283183,Female,day_three
+"(4283183, 'Female', '8 weeks', 'Climbing')",Climbing,124.96,Rbmb6 HD:Het,8 weeks,4283183,Female,day_three
+"(4283183, 'Female', '8 weeks', 'distance (mm)')",Distance,13024.26484,Rbmb6 HD:Het,8 weeks,4283183,Female,day_three
+"(4284198, 'Female', '15-16 weeks', 'Climbing')",Climbing,130.36,Rbmb6 HD:WT,15-16 weeks,4284198,Female,day_three
+"(4284198, 'Female', '15-16 weeks', 'distance (mm)')",Distance,16650.83933,Rbmb6 HD:WT,15-16 weeks,4284198,Female,day_three
+"(4284198, 'Female', '8 weeks', 'Climbing')",Climbing,199.824,Rbmb6 HD:WT,8 weeks,4284198,Female,day_three
+"(4284198, 'Female', '8 weeks', 'distance (mm)')",Distance,6491.774426,Rbmb6 HD:WT,8 weeks,4284198,Female,day_three
+"(4284608, 'Female', '8 weeks', 'Climbing')",Climbing,113.664,Rbmb6 HD:Het,8 weeks,4284608,Female,day_three
+"(4284608, 'Female', '8 weeks', 'distance (mm)')",Distance,9389.525342,Rbmb6 HD:Het,8 weeks,4284608,Female,day_three
+"(4284627, 'Female', '8 weeks', 'Climbing')",Climbing,236.04,Rbmb6 HD:Het,8 weeks,4284627,Female,day_three
+"(4284627, 'Female', '8 weeks', 'distance (mm)')",Distance,14717.46167,Rbmb6 HD:Het,8 weeks,4284627,Female,day_three
+"(4300729, 'Male', '13 weeks', 'Climbing')",Climbing,42.96,Rbmb6 HD:WT,13 weeks,4300729,Male,day_three
+"(4300729, 'Male', '13 weeks', 'distance (mm)')",Distance,4413.018695,Rbmb6 HD:WT,13 weeks,4300729,Male,day_three
+"(4300729, 'Male', '15-16 weeks', 'Climbing')",Climbing,15.024,Rbmb6 HD:WT,15-16 weeks,4300729,Male,day_three
+"(4300729, 'Male', '15-16 weeks', 'distance (mm)')",Distance,5316.282436,Rbmb6 HD:WT,15-16 weeks,4300729,Male,day_three
+"(4300729, 'Male', '8 weeks', 'Climbing')",Climbing,62.4,Rbmb6 HD:WT,8 weeks,4300729,Male,day_three
+"(4300729, 'Male', '8 weeks', 'distance (mm)')",Distance,6618.906518,Rbmb6 HD:WT,8 weeks,4300729,Male,day_three
+"(4300730, 'Male', '13 weeks', 'Climbing')",Climbing,51.856,Rbmb6 HD:Het,13 weeks,4300730,Male,day_three
+"(4300730, 'Male', '13 weeks', 'distance (mm)')",Distance,5196.397186,Rbmb6 HD:Het,13 weeks,4300730,Male,day_three
+"(4300730, 'Male', '15-16 weeks', 'Climbing')",Climbing,24.336,Rbmb6 HD:Het,15-16 weeks,4300730,Male,day_three
+"(4300730, 'Male', '15-16 weeks', 'distance (mm)')",Distance,5444.273999,Rbmb6 HD:Het,15-16 weeks,4300730,Male,day_three
+"(4300730, 'Male', '8 weeks', 'Climbing')",Climbing,5.56,Rbmb6 HD:Het,8 weeks,4300730,Male,day_three
+"(4300730, 'Male', '8 weeks', 'distance (mm)')",Distance,6761.665482,Rbmb6 HD:Het,8 weeks,4300730,Male,day_three
+"(4303286, 'Female', '13 weeks', 'Climbing')",Climbing,81.648,Rbmb6 HD:Het,13 weeks,4303286,Female,day_three
+"(4303286, 'Female', '13 weeks', 'distance (mm)')",Distance,10069.50974,Rbmb6 HD:Het,13 weeks,4303286,Female,day_three
+"(4303286, 'Female', '8 weeks', 'Climbing')",Climbing,68.736,Rbmb6 HD:Het,8 weeks,4303286,Female,day_three
+"(4303286, 'Female', '8 weeks', 'distance (mm)')",Distance,4011.789673,Rbmb6 HD:Het,8 weeks,4303286,Female,day_three
+"(4303287, 'Male', '13 weeks', 'Climbing')",Climbing,36.144,Rbmb6 HD:Het,13 weeks,4303287,Male,day_three
+"(4303287, 'Male', '13 weeks', 'distance (mm)')",Distance,9676.292456,Rbmb6 HD:Het,13 weeks,4303287,Male,day_three
+"(4303287, 'Male', '8 weeks', 'Climbing')",Climbing,41.376,Rbmb6 HD:Het,8 weeks,4303287,Male,day_three
+"(4303287, 'Male', '8 weeks', 'distance (mm)')",Distance,12367.53955,Rbmb6 HD:Het,8 weeks,4303287,Male,day_three
+"(4303288, 'Male', '13 weeks', 'Climbing')",Climbing,35.616,Rbmb6 HD:WT,13 weeks,4303288,Male,day_three
+"(4303288, 'Male', '13 weeks', 'distance (mm)')",Distance,4433.001959,Rbmb6 HD:WT,13 weeks,4303288,Male,day_three
+"(4303288, 'Male', '15-16 weeks', 'Climbing')",Climbing,9.21312,Rbmb6 HD:WT,15-16 weeks,4303288,Male,day_three
+"(4303288, 'Male', '15-16 weeks', 'distance (mm)')",Distance,3247.984039,Rbmb6 HD:WT,15-16 weeks,4303288,Male,day_three
+"(4303291, 'Female', '13 weeks', 'Climbing')",Climbing,126.912,Rbmb6 HD:WT,13 weeks,4303291,Female,day_three
+"(4303291, 'Female', '13 weeks', 'distance (mm)')",Distance,6533.855829,Rbmb6 HD:WT,13 weeks,4303291,Female,day_three
+"(4303291, 'Female', '15-16 weeks', 'Climbing')",Climbing,80.016,Rbmb6 HD:WT,15-16 weeks,4303291,Female,day_three
+"(4303291, 'Female', '15-16 weeks', 'distance (mm)')",Distance,7238.076962,Rbmb6 HD:WT,15-16 weeks,4303291,Female,day_three
+"(4309500, 'Male', '8 weeks', 'Climbing')",Climbing,41.04,Rbmb6 HD:Het,8 weeks,4309500,Male,day_three
+"(4309500, 'Male', '8 weeks', 'distance (mm)')",Distance,5399.775461,Rbmb6 HD:Het,8 weeks,4309500,Male,day_three
+"(4309505, 'Male', '13 weeks', 'Climbing')",Climbing,31.584,Rbmb6 HD:Het,13 weeks,4309505,Male,day_three
+"(4309505, 'Male', '13 weeks', 'distance (mm)')",Distance,7134.134006,Rbmb6 HD:Het,13 weeks,4309505,Male,day_three
+"(4309505, 'Male', '15-16 weeks', 'Climbing')",Climbing,9.072,Rbmb6 HD:Het,15-16 weeks,4309505,Male,day_three
+"(4309505, 'Male', '15-16 weeks', 'distance (mm)')",Distance,2712.674362,Rbmb6 HD:Het,15-16 weeks,4309505,Male,day_three
+"(4309505, 'Male', '8 weeks', 'Climbing')",Climbing,24.096,Rbmb6 HD:Het,8 weeks,4309505,Male,day_three
+"(4309505, 'Male', '8 weeks', 'distance (mm)')",Distance,6689.941004,Rbmb6 HD:Het,8 weeks,4309505,Male,day_three
+"(4309509, 'Female', '13 weeks', 'Climbing')",Climbing,65.264,Rbmb6 HD:WT,13 weeks,4309509,Female,day_three
+"(4309509, 'Female', '13 weeks', 'distance (mm)')",Distance,4872.854926,Rbmb6 HD:WT,13 weeks,4309509,Female,day_three
+"(4309509, 'Female', '15-16 weeks', 'Climbing')",Climbing,14.824,Rbmb6 HD:WT,15-16 weeks,4309509,Female,day_three
+"(4309509, 'Female', '15-16 weeks', 'distance (mm)')",Distance,256.4529587,Rbmb6 HD:WT,15-16 weeks,4309509,Female,day_three
+"(4309509, 'Female', '8 weeks', 'Climbing')",Climbing,242.112,Rbmb6 HD:WT,8 weeks,4309509,Female,day_three
+"(4309509, 'Female', '8 weeks', 'distance (mm)')",Distance,9375.311853,Rbmb6 HD:WT,8 weeks,4309509,Female,day_three
+"(4310394, 'Female', '13 weeks', 'Climbing')",Climbing,73.616,Rbmb6 HD:Het,13 weeks,4310394,Female,day_three
+"(4310394, 'Female', '13 weeks', 'distance (mm)')",Distance,5358.589917,Rbmb6 HD:Het,13 weeks,4310394,Female,day_three
+"(4310394, 'Female', '15-16 weeks', 'Climbing')",Climbing,11.184,Rbmb6 HD:Het,15-16 weeks,4310394,Female,day_three
+"(4310394, 'Female', '15-16 weeks', 'distance (mm)')",Distance,4838.899082,Rbmb6 HD:Het,15-16 weeks,4310394,Female,day_three
+"(4310394, 'Female', '8 weeks', 'Climbing')",Climbing,14.736,Rbmb6 HD:Het,8 weeks,4310394,Female,day_three
+"(4310394, 'Female', '8 weeks', 'distance (mm)')",Distance,2310.769586,Rbmb6 HD:Het,8 weeks,4310394,Female,day_three
+"(4310395, 'Female', '8 weeks', 'Climbing')",Climbing,139.816,Rbmb6 HD:Het,8 weeks,4310395,Female,day_three
+"(4310395, 'Female', '8 weeks', 'distance (mm)')",Distance,11113.97034,Rbmb6 HD:Het,8 weeks,4310395,Female,day_three
+"(4310396, 'Female', '13 weeks', 'Climbing')",Climbing,131.712,Rbmb6 HD:WT,13 weeks,4310396,Female,day_three
+"(4310396, 'Female', '13 weeks', 'distance (mm)')",Distance,5535.0742,Rbmb6 HD:WT,13 weeks,4310396,Female,day_three
+"(4310396, 'Female', '15-16 weeks', 'Climbing')",Climbing,19.296,Rbmb6 HD:WT,15-16 weeks,4310396,Female,day_three
+"(4310396, 'Female', '15-16 weeks', 'distance (mm)')",Distance,4940.426436,Rbmb6 HD:WT,15-16 weeks,4310396,Female,day_three
+"(4310396, 'Female', '8 weeks', 'Climbing')",Climbing,59.872,Rbmb6 HD:WT,8 weeks,4310396,Female,day_three
+"(4310396, 'Female', '8 weeks', 'distance (mm)')",Distance,3704.24303,Rbmb6 HD:WT,8 weeks,4310396,Female,day_three
+"(4310397, 'Male', '13 weeks', 'Climbing')",Climbing,8.112,Rbmb6 HD:WT,13 weeks,4310397,Male,day_three
+"(4310397, 'Male', '13 weeks', 'distance (mm)')",Distance,3047.971457,Rbmb6 HD:WT,13 weeks,4310397,Male,day_three
+"(4310397, 'Male', '15-16 weeks', 'Climbing')",Climbing,13.344,Rbmb6 HD:WT,15-16 weeks,4310397,Male,day_three
+"(4310397, 'Male', '15-16 weeks', 'distance (mm)')",Distance,3949.408857,Rbmb6 HD:WT,15-16 weeks,4310397,Male,day_three
+"(4310397, 'Male', '8 weeks', 'Climbing')",Climbing,6.576,Rbmb6 HD:WT,8 weeks,4310397,Male,day_three
+"(4310397, 'Male', '8 weeks', 'distance (mm)')",Distance,3459.594906,Rbmb6 HD:WT,8 weeks,4310397,Male,day_three
+"(4310398, 'Male', '13 weeks', 'Climbing')",Climbing,4.08,Rbmb6 HD:Het,13 weeks,4310398,Male,day_three
+"(4310398, 'Male', '13 weeks', 'distance (mm)')",Distance,3188.422943,Rbmb6 HD:Het,13 weeks,4310398,Male,day_three
+"(4310398, 'Male', '15-16 weeks', 'Climbing')",Climbing,10.896,Rbmb6 HD:Het,15-16 weeks,4310398,Male,day_three
+"(4310398, 'Male', '15-16 weeks', 'distance (mm)')",Distance,3115.683676,Rbmb6 HD:Het,15-16 weeks,4310398,Male,day_three
+"(4310398, 'Male', '8 weeks', 'Climbing')",Climbing,73.392,Rbmb6 HD:Het,8 weeks,4310398,Male,day_three
+"(4310398, 'Male', '8 weeks', 'distance (mm)')",Distance,7734.170969,Rbmb6 HD:Het,8 weeks,4310398,Male,day_three
+"(4310410, 'Female', '13 weeks', 'Climbing')",Climbing,80.192,Rbmb6 HD:WT,13 weeks,4310410,Female,day_three
+"(4310410, 'Female', '13 weeks', 'distance (mm)')",Distance,7494.821716,Rbmb6 HD:WT,13 weeks,4310410,Female,day_three
+"(4310410, 'Female', '15-16 weeks', 'Climbing')",Climbing,30.624,Rbmb6 HD:WT,15-16 weeks,4310410,Female,day_three
+"(4310410, 'Female', '15-16 weeks', 'distance (mm)')",Distance,4959.754136,Rbmb6 HD:WT,15-16 weeks,4310410,Female,day_three
+"(4310410, 'Female', '8 weeks', 'Climbing')",Climbing,114.72,Rbmb6 HD:WT,8 weeks,4310410,Female,day_three
+"(4310410, 'Female', '8 weeks', 'distance (mm)')",Distance,8057.530988,Rbmb6 HD:WT,8 weeks,4310410,Female,day_three
+"(4311405, 'Female', '13 weeks', 'Climbing')",Climbing,10.32,Rbmb6 HD:Het,13 weeks,4311405,Female,day_three
+"(4311405, 'Female', '13 weeks', 'distance (mm)')",Distance,3804.072505,Rbmb6 HD:Het,13 weeks,4311405,Female,day_three
+"(4311405, 'Female', '15-16 weeks', 'Climbing')",Climbing,13.296,Rbmb6 HD:Het,15-16 weeks,4311405,Female,day_three
+"(4311405, 'Female', '15-16 weeks', 'distance (mm)')",Distance,5169.454455,Rbmb6 HD:Het,15-16 weeks,4311405,Female,day_three
+"(4311405, 'Female', '8 weeks', 'Climbing')",Climbing,130.08,Rbmb6 HD:Het,8 weeks,4311405,Female,day_three
+"(4311405, 'Female', '8 weeks', 'distance (mm)')",Distance,7450.306293,Rbmb6 HD:Het,8 weeks,4311405,Female,day_three
+"(4311406, 'Male', '15-16 weeks', 'Climbing')",Climbing,11.856,Rbmb6 HD:Het,15-16 weeks,4311406,Male,day_three
+"(4311406, 'Male', '15-16 weeks', 'distance (mm)')",Distance,2416.514157,Rbmb6 HD:Het,15-16 weeks,4311406,Male,day_three
+"(4311406, 'Male', '8 weeks', 'Climbing')",Climbing,62.88,Rbmb6 HD:Het,8 weeks,4311406,Male,day_three
+"(4311406, 'Male', '8 weeks', 'distance (mm)')",Distance,8693.86211,Rbmb6 HD:Het,8 weeks,4311406,Male,day_three
+"(4311407, 'Male', '13 weeks', 'Climbing')",Climbing,28.752,Rbmb6 HD:WT,13 weeks,4311407,Male,day_three
+"(4311407, 'Male', '13 weeks', 'distance (mm)')",Distance,6655.526197,Rbmb6 HD:WT,13 weeks,4311407,Male,day_three
+"(4311407, 'Male', '15-16 weeks', 'Climbing')",Climbing,24.48,Rbmb6 HD:WT,15-16 weeks,4311407,Male,day_three
+"(4311407, 'Male', '15-16 weeks', 'distance (mm)')",Distance,6079.493914,Rbmb6 HD:WT,15-16 weeks,4311407,Male,day_three
+"(4311407, 'Male', '8 weeks', 'Climbing')",Climbing,39.088,Rbmb6 HD:WT,8 weeks,4311407,Male,day_three
+"(4311407, 'Male', '8 weeks', 'distance (mm)')",Distance,6738.419191,Rbmb6 HD:WT,8 weeks,4311407,Male,day_three
+"(4311417, 'Female', '13 weeks', 'Climbing')",Climbing,61.824,Rbmb6 HD:WT,13 weeks,4311417,Female,day_three
+"(4311417, 'Female', '13 weeks', 'distance (mm)')",Distance,2348.687134,Rbmb6 HD:WT,13 weeks,4311417,Female,day_three
+"(4311417, 'Female', '15-16 weeks', 'Climbing')",Climbing,11.472,Rbmb6 HD:WT,15-16 weeks,4311417,Female,day_three
+"(4311417, 'Female', '15-16 weeks', 'distance (mm)')",Distance,3174.551894,Rbmb6 HD:WT,15-16 weeks,4311417,Female,day_three
+"(4311417, 'Female', '8 weeks', 'Climbing')",Climbing,35.856,Rbmb6 HD:WT,8 weeks,4311417,Female,day_three
+"(4311417, 'Female', '8 weeks', 'distance (mm)')",Distance,4198.247949,Rbmb6 HD:WT,8 weeks,4311417,Female,day_three
+"(4314309, 'Male', '8 weeks', 'Climbing')",Climbing,12.672,Rbmb6 HD:Het,8 weeks,4314309,Male,day_three
+"(4314309, 'Male', '8 weeks', 'distance (mm)')",Distance,3951.111866,Rbmb6 HD:Het,8 weeks,4314309,Male,day_three
+"(4314315, 'Female', '8 weeks', 'Climbing')",Climbing,10.944,Rbmb6 HD:WT,8 weeks,4314315,Female,day_three
+"(4314315, 'Female', '8 weeks', 'distance (mm)')",Distance,941.9831694,Rbmb6 HD:WT,8 weeks,4314315,Female,day_three
+"(4314316, 'Female', '8 weeks', 'Climbing')",Climbing,48.672,Rbmb6 HD:Het,8 weeks,4314316,Female,day_three
+"(4314316, 'Female', '8 weeks', 'distance (mm)')",Distance,4553.924185,Rbmb6 HD:Het,8 weeks,4314316,Female,day_three
+"(4366282, 'Male', '13 weeks', 'Climbing')",Climbing,12.032,Rbmb6 HD:WT,13 weeks,4366282,Male,day_three
+"(4366282, 'Male', '13 weeks', 'distance (mm)')",Distance,4417.324248,Rbmb6 HD:WT,13 weeks,4366282,Male,day_three
+"(4366282, 'Male', '15-16 weeks', 'Climbing')",Climbing,16.272,Rbmb6 HD:WT,15-16 weeks,4366282,Male,day_three
+"(4366282, 'Male', '15-16 weeks', 'distance (mm)')",Distance,12574.39542,Rbmb6 HD:WT,15-16 weeks,4366282,Male,day_three
+"(4366282, 'Male', '8 weeks', 'Climbing')",Climbing,14.32,Rbmb6 HD:WT,8 weeks,4366282,Male,day_three
+"(4366282, 'Male', '8 weeks', 'distance (mm)')",Distance,5674.734512,Rbmb6 HD:WT,8 weeks,4366282,Male,day_three
+"(4366286, 'Male', '13 weeks', 'Climbing')",Climbing,41.76,Rbmb6 HD:Het,13 weeks,4366286,Male,day_three
+"(4366286, 'Male', '13 weeks', 'distance (mm)')",Distance,4252.899371,Rbmb6 HD:Het,13 weeks,4366286,Male,day_three
+"(4366286, 'Male', '15-16 weeks', 'Climbing')",Climbing,0.576,Rbmb6 HD:Het,15-16 weeks,4366286,Male,day_three
+"(4366286, 'Male', '15-16 weeks', 'distance (mm)')",Distance,5466.702532,Rbmb6 HD:Het,15-16 weeks,4366286,Male,day_three
+"(4366286, 'Male', '8 weeks', 'Climbing')",Climbing,28.608,Rbmb6 HD:Het,8 weeks,4366286,Male,day_three
+"(4366286, 'Male', '8 weeks', 'distance (mm)')",Distance,4374.721151,Rbmb6 HD:Het,8 weeks,4366286,Male,day_three
